@@ -1,0 +1,2090 @@
+opportunity_id,account,product,deal_stage,sales_agent,sector,company_size,revenue_tier,regional_office,lead_score,priority
+H2MC2E7K,Condax,GTX Plus Basic,Engaging,Vicki Laflamme,medical,Small,Tier 1: < $100M,West,85.1,High Priority
+3H3TNCP5,Condax,GTX Plus Basic,Engaging,James Ascencio,medical,Small,Tier 1: < $100M,West,85.1,High Priority
+1LY8CAXD,Betasoloin,GTK 500,Engaging,Rosalina Dieter,medical,Medium,Tier 2: $100M-$499M,West,83.2,High Priority
+NJNY07JZ,Codehow,GTX Basic,Engaging,Darcel Schlecht,software,Enterprise,Tier 5: > $2.5B,Central,81.3,High Priority
+GG85QBTM,Lexiqvolax,GTK 500,Engaging,Elease Gluck,medical,Enterprise,Tier 4: $1B-$2.5B,West,80.9,High Priority
+DNBR1VHP,Silis,MG Special,Engaging,Anna Snelling,medical,Corporate,Tier 5: > $2.5B,Central,80.3,High Priority
+GI94RTL5,Labdrill,MG Special,Prospecting,Anna Snelling,medical,Corporate,Tier 5: > $2.5B,Central,80.3,High Priority
+GVJFKHNL,Silis,MG Special,Engaging,Gladys Colclough,medical,Corporate,Tier 5: > $2.5B,Central,80.3,High Priority
+ZQRBJVZF,Dontechi,MG Special,Prospecting,Anna Snelling,software,Corporate,Tier 5: > $2.5B,Central,77.4,High Priority
+055Z2OAS,Dontechi,MG Special,Engaging,Anna Snelling,software,Corporate,Tier 5: > $2.5B,Central,77.4,High Priority
+WA4TPQ5U,Zoomit,GTX Plus Basic,Engaging,Maureen Marcano,entertainment,Large,Tier 2: $100M-$499M,West,77.4,High Priority
+Y3AAS62P,Zoomit,GTX Plus Basic,Engaging,Vicki Laflamme,entertainment,Large,Tier 2: $100M-$499M,West,77.4,High Priority
+4H8GZ075,Scotfind,MG Special,Prospecting,Anna Snelling,software,Corporate,Tier 5: > $2.5B,Central,77.4,High Priority
+XSEG5T4H,Zoomit,GTX Plus Basic,Engaging,Markita Hansen,entertainment,Large,Tier 2: $100M-$499M,West,77.4,High Priority
+IBZI95HI,Zoomit,GTX Plus Basic,Engaging,James Ascencio,entertainment,Large,Tier 2: $100M-$499M,West,77.4,High Priority
+LMOAYCUK,Plusstrip,GTX Plus Basic,Engaging,Kami Bicknell,entertainment,Medium,Tier 2: $100M-$499M,West,77.2,High Priority
+44Q1W18Y,Zoomit,MG Special,Engaging,Moses Frase,entertainment,Large,Tier 2: $100M-$499M,Central,77.0,High Priority
+DW5BQ220,Zoomit,MG Special,Prospecting,Anna Snelling,entertainment,Large,Tier 2: $100M-$499M,Central,77.0,High Priority
+ZHPJ73Q6,Inity,GTX Basic,Prospecting,Versie Hillebrand,marketing,Corporate,Tier 4: $1B-$2.5B,Central,76.2,High Priority
+S6645YWA,Y-corporation,GTX Basic,Engaging,Kami Bicknell,employment,Corporate,Tier 5: > $2.5B,West,76.1,High Priority
+YL29KX3L,Zumgoity,GTX Plus Basic,Prospecting,Anna Snelling,medical,Enterprise,Tier 2: $100M-$499M,Central,75.9,High Priority
+YMI68O7S,Zumgoity,GTX Plus Basic,Prospecting,Marty Freudenburg,medical,Enterprise,Tier 2: $100M-$499M,Central,75.9,High Priority
+7MP6KLZO,Goodsilron,GTX Basic,Engaging,Moses Frase,marketing,Corporate,Tier 5: > $2.5B,Central,75.7,High Priority
+2MKG6ZDD,Domzoom,GTX Basic,Engaging,James Ascencio,entertainment,Large,Tier 2: $100M-$499M,West,75.0,High Priority
+Z9S1ZX7W,Condax,GTX Plus Basic,Engaging,Daniell Hammack,medical,Small,Tier 1: < $100M,East,74.5,High Priority
+1VFT3UCK,Condax,GTX Plus Basic,Engaging,Boris Faz,medical,Small,Tier 1: < $100M,East,74.5,High Priority
+KIKG1BGV,Domzoom,MG Advanced,Engaging,Moses Frase,entertainment,Large,Tier 2: $100M-$499M,Central,74.4,High Priority
+7W9S4DCZ,Dalttechnology,MG Special,Engaging,Lajuana Vencill,software,Small,Tier 1: < $100M,Central,74.3,High Priority
+P91SQBST,Dalttechnology,MG Special,Engaging,Anna Snelling,software,Small,Tier 1: < $100M,Central,74.3,High Priority
+YTGQKC7A,Dalttechnology,MG Special,Engaging,Rosalina Dieter,software,Small,Tier 1: < $100M,West,74.1,High Priority
+REO3FMSB,Massive Dynamic,MG Advanced,Engaging,Corliss Cosme,entertainment,Enterprise,Tier 3: $500M-$999M,East,73.9,High Priority
+5CAP1055,Kan-code,GTX Plus Pro,Engaging,Kary Hendrixson,software,Corporate,Tier 5: > $2.5B,West,73.9,High Priority
+ATMWAQL5,Gogozoom,GTX Plus Basic,Engaging,Niesha Huffines,telecommunications,Medium,Tier 1: < $100M,Central,73.8,High Priority
+SCS5H8V1,Vehement Capital Partners,GTK 500,Engaging,Markita Hansen,finance,Large,Tier 3: $500M-$999M,West,73.7,High Priority
+ALHQU8W8,Plexzap,GTX Basic,Engaging,Corliss Cosme,retail,Enterprise,Tier 4: $1B-$2.5B,East,73.4,High Priority
+DJMPI9TO,Xx-zobam,GTK 500,Engaging,Elease Gluck,entertainment,Corporate,Tier 5: > $2.5B,West,73.3,High Priority
+2TYZRE2R,Massive Dynamic,MG Special,Engaging,Moses Frase,entertainment,Enterprise,Tier 3: $500M-$999M,Central,72.9,High Priority
+751V8OFM,Funholding,GTX Plus Basic,Engaging,Gladys Colclough,finance,Corporate,Tier 5: > $2.5B,Central,72.0,High Priority
+UMD1BA4S,Ganjaflex,MG Special,Prospecting,Anna Snelling,retail,Corporate,Tier 5: > $2.5B,Central,71.7,High Priority
+XYLNH45V,Zathunicon,GTX Plus Basic,Engaging,Daniell Hammack,retail,Medium,Tier 1: < $100M,East,71.6,High Priority
+J1G2SZKD,Goodsilron,GTX Basic,Engaging,Zane Levy,marketing,Corporate,Tier 5: > $2.5B,West,71.6,High Priority
+DJFMG9QI,Plusstrip,MG Special,Engaging,Moses Frase,entertainment,Medium,Tier 2: $100M-$499M,Central,71.4,High Priority
+MV227O65,Sonron,GTX Plus Pro,Engaging,Maureen Marcano,telecommunications,Corporate,Tier 4: $1B-$2.5B,West,71.4,High Priority
+4ZB2W6O7,Plusstrip,MG Special,Engaging,Anna Snelling,entertainment,Medium,Tier 2: $100M-$499M,Central,71.4,High Priority
+7A3R2M9T,Sonron,GTX Plus Pro,Engaging,Vicki Laflamme,telecommunications,Corporate,Tier 4: $1B-$2.5B,West,71.4,High Priority
+AE3YDLK3,Xx-zobam,GTX Basic,Prospecting,Jonathan Berthelot,entertainment,Corporate,Tier 5: > $2.5B,Central,71.2,High Priority
+GY10EROJ,Cheers,GTX Basic,Engaging,Jonathan Berthelot,entertainment,Corporate,Tier 5: > $2.5B,Central,71.2,High Priority
+RGW7PKJ6,Xx-zobam,GTX Basic,Prospecting,Marty Freudenburg,entertainment,Corporate,Tier 5: > $2.5B,Central,71.2,High Priority
+3N46WQVI,Faxquote,MG Advanced,Engaging,Hayden Neloms,telecommunications,Corporate,Tier 4: $1B-$2.5B,West,71.1,High Priority
+P25KLAD2,Rangreen,MG Advanced,Prospecting,Lajuana Vencill,technology,Corporate,Tier 5: > $2.5B,Central,71.1,High Priority
+NT38RBZY,Gogozoom,GTX Basic,Prospecting,Jonathan Berthelot,telecommunications,Medium,Tier 1: < $100M,Central,71.1,High Priority
+WQ5U8PPM,Umbrella Corporation,GTX Plus Basic,Engaging,Niesha Huffines,finance,Corporate,Tier 4: $1B-$2.5B,Central,70.9,High Priority
+CBQRKYZP,Silis,GTX Plus Pro,Engaging,Marty Freudenburg,medical,Corporate,Tier 5: > $2.5B,Central,70.8,High Priority
+B26TNOGQ,Silis,GTX Plus Pro,Prospecting,Jonathan Berthelot,medical,Corporate,Tier 5: > $2.5B,Central,70.8,High Priority
+I3KQNE9V,Isdom,GTX Plus Pro,Engaging,Darcel Schlecht,medical,Enterprise,Tier 5: > $2.5B,Central,70.8,High Priority
+1FEHFRKX,Labdrill,GTX Plus Pro,Engaging,Anna Snelling,medical,Corporate,Tier 5: > $2.5B,Central,70.8,High Priority
+HFUZQFQQ,Groovestreet,GTX Basic,Engaging,Markita Hansen,retail,Medium,Tier 2: $100M-$499M,West,70.7,High Priority
+D193SPY4,Plussunin,MG Special,Engaging,Violet Mclelland,retail,Enterprise,Tier 4: $1B-$2.5B,East,70.7,High Priority
+N07K7DR7,Plexzap,MG Special,Engaging,Rosie Papadopoulos,retail,Enterprise,Tier 4: $1B-$2.5B,East,70.7,High Priority
+W1XRTUT2,Finhigh,MG Special,Engaging,Versie Hillebrand,finance,Enterprise,Tier 4: $1B-$2.5B,Central,70.6,High Priority
+I93XL6Q9,Finhigh,MG Special,Prospecting,Anna Snelling,finance,Enterprise,Tier 4: $1B-$2.5B,Central,70.6,High Priority
+V3G1HBTZ,Nam-zim,GTX Basic,Engaging,Lajuana Vencill,services,Enterprise,Tier 2: $100M-$499M,Central,70.3,High Priority
+JCPQZ2SN,Cheers,GTX Plus Basic,Engaging,Hayden Neloms,entertainment,Corporate,Tier 5: > $2.5B,West,70.3,High Priority
+HMWIP0F2,Finjob,MG Special,Engaging,Darcel Schlecht,employment,Enterprise,Tier 4: $1B-$2.5B,Central,70.2,High Priority
+FJHKS2T2,Plussunin,GTX Basic,Prospecting,Niesha Huffines,retail,Enterprise,Tier 4: $1B-$2.5B,Central,69.9,Medium Priority
+MBPJUJ7F,Plexzap,GTX Basic,Engaging,Jonathan Berthelot,retail,Enterprise,Tier 4: $1B-$2.5B,Central,69.9,Medium Priority
+ETJR6FUL,Plexzap,GTX Basic,Prospecting,Marty Freudenburg,retail,Enterprise,Tier 4: $1B-$2.5B,Central,69.9,Medium Priority
+P7MSQO38,Yearin,GTX Basic,Engaging,Anna Snelling,retail,Enterprise,Tier 4: $1B-$2.5B,Central,69.9,Medium Priority
+HJRM13DI,Treequote,MG Special,Engaging,Marty Freudenburg,telecommunications,Corporate,Tier 5: > $2.5B,Central,69.8,Medium Priority
+PXNDLIL2,Initech,MG Special,Engaging,Lajuana Vencill,telecommunications,Corporate,Tier 5: > $2.5B,Central,69.8,Medium Priority
+CAONNFXN,Kinnamplus,GTX Basic,Prospecting,Darcel Schlecht,retail,Enterprise,Tier 3: $500M-$999M,Central,69.8,Medium Priority
+806KPNNN,Zathunicon,GTX Basic,Engaging,Versie Hillebrand,retail,Medium,Tier 1: < $100M,Central,69.8,Medium Priority
+QP0QCP8Y,Dalttechnology,GTX Plus Pro,Engaging,Kary Hendrixson,software,Small,Tier 1: < $100M,West,69.8,Medium Priority
+H6I16U57,Sunnamplex,MG Advanced,Engaging,Rosie Papadopoulos,marketing,Enterprise,Tier 3: $500M-$999M,East,69.7,Medium Priority
+81MXE1H7,Bioholding,MG Advanced,Engaging,Markita Hansen,medical,Enterprise,Tier 3: $500M-$999M,West,69.5,Medium Priority
+WEKW3XIN,Condax,GTX Plus Pro,Engaging,Cassey Cress,medical,Small,Tier 1: < $100M,East,69.5,Medium Priority
+MUSSD9WD,Goodsilron,GTX Plus Basic,Engaging,Darcel Schlecht,marketing,Corporate,Tier 5: > $2.5B,Central,69.5,Medium Priority
+YM8DBAFV,Sumace,GTX Basic,Engaging,Cassey Cress,retail,Medium,Tier 2: $100M-$499M,East,69.5,Medium Priority
+059K86LU,Labdrill,GTX Plus Pro,Engaging,Kami Bicknell,medical,Corporate,Tier 5: > $2.5B,West,69.4,Medium Priority
+6CWZFOHJ,Green-Plus,GTX Basic,Prospecting,Anna Snelling,services,Enterprise,Tier 3: $500M-$999M,Central,69.4,Medium Priority
+2WDSO6PG,Hatfan,GTX Basic,Engaging,Niesha Huffines,services,Enterprise,Tier 3: $500M-$999M,Central,69.4,Medium Priority
+5C59O9GU,Conecom,MG Special,Prospecting,Anna Snelling,technology,Enterprise,Tier 4: $1B-$2.5B,Central,69.3,Medium Priority
+11T4HX93,Bluth Company,MG Special,Prospecting,Jonathan Berthelot,technology,Enterprise,Tier 4: $1B-$2.5B,Central,69.3,Medium Priority
+ROM4I2T0,Rundofase,MG Special,Prospecting,Versie Hillebrand,technology,Enterprise,Tier 4: $1B-$2.5B,Central,69.3,Medium Priority
+BUOI3TBI,Rundofase,MG Special,Prospecting,Gladys Colclough,technology,Enterprise,Tier 4: $1B-$2.5B,Central,69.3,Medium Priority
+1FLN8BTI,Rundofase,MG Special,Engaging,Darcel Schlecht,technology,Enterprise,Tier 4: $1B-$2.5B,Central,69.3,Medium Priority
+TLZGG7G5,Conecom,MG Special,Prospecting,Cecily Lampkin,technology,Enterprise,Tier 4: $1B-$2.5B,Central,69.3,Medium Priority
+KFSKQ291,Plusstrip,MG Advanced,Prospecting,Gladys Colclough,entertainment,Medium,Tier 2: $100M-$499M,Central,69.3,Medium Priority
+1BB5LME9,Globex Corporation,MG Special,Prospecting,Marty Freudenburg,technology,Enterprise,Tier 4: $1B-$2.5B,Central,69.3,Medium Priority
+4ZQTMS3Z,Kan-code,MG Special,Engaging,Violet Mclelland,software,Corporate,Tier 5: > $2.5B,East,69.2,Medium Priority
+F4W7Z1UU,Vehement Capital Partners,MG Special,Prospecting,Anna Snelling,finance,Large,Tier 3: $500M-$999M,Central,69.2,Medium Priority
+H176AX96,Gekko & Co,MG Advanced,Engaging,James Ascencio,retail,Enterprise,Tier 5: > $2.5B,West,69.1,Medium Priority
+C9330YF1,Blackzim,GTX Basic,Engaging,Markita Hansen,retail,Enterprise,Tier 2: $100M-$499M,West,69.1,Medium Priority
+V4XHHFO3,Blackzim,GTX Basic,Engaging,Elease Gluck,retail,Enterprise,Tier 2: $100M-$499M,West,69.1,Medium Priority
+QP006VDE,Domzoom,MG Advanced,Engaging,Markita Hansen,entertainment,Large,Tier 2: $100M-$499M,West,69.0,Medium Priority
+OHOWVHYX,Zoomit,MG Advanced,Engaging,Rosalina Dieter,entertainment,Large,Tier 2: $100M-$499M,West,69.0,Medium Priority
+X8GGF9MG,Dontechi,MG Special,Engaging,Rosalina Dieter,software,Corporate,Tier 5: > $2.5B,West,69.0,Medium Priority
+F3EOBN5A,Genco Pura Olive Oil Company,GTX Plus Pro,Engaging,Moses Frase,retail,Enterprise,Tier 3: $500M-$999M,Central,69.0,Medium Priority
+OLGT0VHP,Statholdings,GTX Plus Pro,Engaging,James Ascencio,employment,Large,Tier 2: $100M-$499M,West,69.0,Medium Priority
+LJBQ7P0V,Zotware,MG Special,Engaging,James Ascencio,software,Corporate,Tier 5: > $2.5B,West,69.0,Medium Priority
+R9GI5SJ5,Domzoom,MG Advanced,Engaging,Vicki Laflamme,entertainment,Large,Tier 2: $100M-$499M,West,69.0,Medium Priority
+5G4I94TF,Statholdings,GTX Plus Pro,Engaging,Kary Hendrixson,employment,Large,Tier 2: $100M-$499M,West,69.0,Medium Priority
+7XRWWM0X,Scotfind,MG Special,Engaging,Kami Bicknell,software,Corporate,Tier 5: > $2.5B,West,69.0,Medium Priority
+FVGRGJU8,Betatech,MG Advanced,Engaging,Rosie Papadopoulos,medical,Enterprise,Tier 3: $500M-$999M,East,68.9,Medium Priority
+EPSIB2JR,Zoomit,MG Special,Engaging,Violet Mclelland,entertainment,Large,Tier 2: $100M-$499M,East,68.9,Medium Priority
+22HV3N2W,Rangreen,GTX Plus Basic,Engaging,Niesha Huffines,technology,Corporate,Tier 5: > $2.5B,Central,68.5,Medium Priority
+MG1YUTUE,Acme Corporation,MG Special,Engaging,Markita Hansen,technology,Enterprise,Tier 4: $1B-$2.5B,West,68.5,Medium Priority
+DZP0MNRM,Konex,GTX Plus Basic,Engaging,Niesha Huffines,technology,Corporate,Tier 5: > $2.5B,Central,68.5,Medium Priority
+MON9ZE47,Groovestreet,GTX Basic,Prospecting,Niesha Huffines,retail,Medium,Tier 2: $100M-$499M,Central,68.4,Medium Priority
+H3DYTZIQ,Scottech,GTX Plus Basic,Engaging,Cassey Cress,marketing,Medium,Tier 1: < $100M,East,68.4,Medium Priority
+0XVL2UMH,Groovestreet,GTX Basic,Prospecting,Jonathan Berthelot,retail,Medium,Tier 2: $100M-$499M,Central,68.4,Medium Priority
+ICG3THQK,Sumace,GTX Basic,Engaging,Gladys Colclough,retail,Medium,Tier 2: $100M-$499M,Central,68.4,Medium Priority
+TWEVVI99,Scottech,GTX Plus Basic,Engaging,Daniell Hammack,marketing,Medium,Tier 1: < $100M,East,68.4,Medium Priority
+VKT0UN11,Codehow,MG Advanced,Engaging,James Ascencio,software,Enterprise,Tier 5: > $2.5B,West,68.4,Medium Priority
+G40058T1,Yearin,MG Special,Engaging,Versie Hillebrand,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+AV72Y65Y,Streethex,MG Special,Engaging,Cecily Lampkin,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+Z89NKUC7,Plussunin,MG Special,Prospecting,Anna Snelling,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+Y7244XW7,Plussunin,MG Special,Engaging,Moses Frase,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+2G5ZMOYC,Scottech,GTX Basic,Prospecting,Versie Hillebrand,marketing,Medium,Tier 1: < $100M,Central,68.3,Medium Priority
+WJK0O5J9,Doncon,MG Special,Prospecting,Versie Hillebrand,technology,Enterprise,Tier 3: $500M-$999M,Central,68.3,Medium Priority
+38K5251H,Fasehatice,GTX Basic,Prospecting,Cecily Lampkin,retail,Corporate,Tier 5: > $2.5B,Central,68.3,Medium Priority
+47P0HBNM,Plussunin,MG Special,Prospecting,Anna Snelling,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+JHNDPI2N,J-Texon,MG Special,Prospecting,Anna Snelling,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+CLPDG9BG,Yearin,MG Special,Prospecting,Moses Frase,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+COGXUYLL,Doncon,MG Special,Prospecting,Marty Freudenburg,technology,Enterprise,Tier 3: $500M-$999M,Central,68.3,Medium Priority
+D8ZJ6F45,Yearin,MG Special,Prospecting,Gladys Colclough,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+DOP1NORG,Plexzap,MG Special,Prospecting,Gladys Colclough,retail,Enterprise,Tier 4: $1B-$2.5B,Central,68.3,Medium Priority
+CVFUMOK9,Rangreen,GTX Plus Pro,Engaging,Corliss Cosme,technology,Corporate,Tier 5: > $2.5B,East,68.3,Medium Priority
+NSX4NR40,Bioholding,GTX Plus Pro,Engaging,Anna Snelling,medical,Enterprise,Tier 3: $500M-$999M,Central,68.1,Medium Priority
+QELHQ898,Statholdings,GTX Plus Basic,Engaging,Zane Levy,employment,Large,Tier 2: $100M-$499M,West,68.0,Medium Priority
+T1SITEI0,Singletechno,MG Special,Engaging,Darcel Schlecht,retail,Corporate,Tier 4: $1B-$2.5B,Central,67.8,Medium Priority
+FEFNNXH1,Singletechno,MG Special,Engaging,Anna Snelling,retail,Corporate,Tier 4: $1B-$2.5B,Central,67.8,Medium Priority
+RG893DYQ,The New York Inquirer,GTX Basic,Engaging,Markita Hansen,medical,Large,Tier 2: $100M-$499M,West,67.7,Medium Priority
+3PVNGGBX,The New York Inquirer,GTX Basic,Engaging,Markita Hansen,medical,Large,Tier 2: $100M-$499M,West,67.7,Medium Priority
+33BMGHPN,Opentech,MG Special,Engaging,Gladys Colclough,finance,Large,Tier 2: $100M-$499M,Central,67.7,Medium Priority
+KLUS7RVS,Opentech,MG Special,Prospecting,Versie Hillebrand,finance,Large,Tier 2: $100M-$499M,Central,67.7,Medium Priority
+7EHJYKWE,Xx-holding,GTX Basic,Engaging,Kary Hendrixson,finance,Corporate,Tier 5: > $2.5B,West,67.6,Medium Priority
+9P180HVQ,Zencorporation,GTX Basic,Engaging,Moses Frase,technology,Medium,Tier 1: < $100M,Central,67.5,Medium Priority
+XS7L2AQE,Zencorporation,GTX Basic,Prospecting,Moses Frase,technology,Medium,Tier 1: < $100M,Central,67.5,Medium Priority
+C54CWZIT,Zencorporation,GTX Basic,Prospecting,Jonathan Berthelot,technology,Medium,Tier 1: < $100M,Central,67.5,Medium Priority
+5VYJCJAE,Zoomit,GTX Plus Pro,Engaging,Corliss Cosme,entertainment,Large,Tier 2: $100M-$499M,East,67.3,Medium Priority
+LORMJLTE,Konmatfix,GTX Plus Basic,Engaging,Lajuana Vencill,marketing,Enterprise,Tier 2: $100M-$499M,Central,67.1,Medium Priority
+FHPRER2D,Sonron,MG Special,Engaging,Versie Hillebrand,telecommunications,Corporate,Tier 4: $1B-$2.5B,Central,67.0,Medium Priority
+ZVO432VF,Faxquote,MG Special,Prospecting,Marty Freudenburg,telecommunications,Corporate,Tier 4: $1B-$2.5B,Central,67.0,Medium Priority
+UDAUS3DF,Sonron,MG Special,Prospecting,Anna Snelling,telecommunications,Corporate,Tier 4: $1B-$2.5B,Central,67.0,Medium Priority
+AY3KTIXX,Cheers,GTX Plus Pro,Engaging,James Ascencio,entertainment,Corporate,Tier 5: > $2.5B,West,66.8,Medium Priority
+EVXPG3V5,The New York Inquirer,GTX Basic,Engaging,Lajuana Vencill,medical,Large,Tier 2: $100M-$499M,Central,66.8,Medium Priority
+YB4YJTK4,Lexiqvolax,GTX Basic,Engaging,Kami Bicknell,medical,Enterprise,Tier 4: $1B-$2.5B,West,66.7,Medium Priority
+UIX6X6R3,Umbrella Corporation,MG Advanced,Engaging,Zane Levy,finance,Corporate,Tier 4: $1B-$2.5B,West,66.7,Medium Priority
+T4FQOS6J,Opentech,GTX Plus Basic,Engaging,Maureen Marcano,finance,Large,Tier 2: $100M-$499M,West,66.5,Medium Priority
+6OD1J7MW,Plexzap,GTX Plus Pro,Engaging,Elease Gluck,retail,Enterprise,Tier 4: $1B-$2.5B,West,66.5,Medium Priority
+Q65B52C5,Kan-code,GTX Basic,Engaging,Niesha Huffines,software,Corporate,Tier 5: > $2.5B,Central,66.4,Medium Priority
+NX2EICNQ,Kan-code,GTX Basic,Engaging,Versie Hillebrand,software,Corporate,Tier 5: > $2.5B,Central,66.4,Medium Priority
+WE2CEE8A,Dontechi,GTX Basic,Prospecting,Jonathan Berthelot,software,Corporate,Tier 5: > $2.5B,Central,66.4,Medium Priority
+Y3TOQUQI,Zotware,GTX Basic,Engaging,Marty Freudenburg,software,Corporate,Tier 5: > $2.5B,Central,66.4,Medium Priority
+HHDQ9EW4,Inity,GTX Basic,Engaging,Kami Bicknell,marketing,Corporate,Tier 4: $1B-$2.5B,West,66.3,Medium Priority
+NFMCPYOV,Finjob,GTX Basic,Engaging,Rosie Papadopoulos,employment,Enterprise,Tier 4: $1B-$2.5B,East,66.3,Medium Priority
+73HO9OZC,Finjob,GTX Basic,Engaging,Cassey Cress,employment,Enterprise,Tier 4: $1B-$2.5B,East,66.3,Medium Priority
+L8XNQONA,Inity,GTX Basic,Engaging,Zane Levy,marketing,Corporate,Tier 4: $1B-$2.5B,West,66.3,Medium Priority
+HKMMBDMW,Plusstrip,GTX Basic,Prospecting,Moses Frase,entertainment,Medium,Tier 2: $100M-$499M,Central,66.3,Medium Priority
+VRYR5A81,Finhigh,GTX Basic,Engaging,Wilburn Farren,finance,Enterprise,Tier 4: $1B-$2.5B,East,66.2,Medium Priority
+49SUORYW,Betasoloin,GTX Plus Basic,Engaging,Niesha Huffines,medical,Medium,Tier 2: $100M-$499M,Central,66.2,Medium Priority
+QU220OFI,Finhigh,GTX Basic,Engaging,Boris Faz,finance,Enterprise,Tier 4: $1B-$2.5B,East,66.2,Medium Priority
+I43F0Z77,Betasoloin,GTX Plus Basic,Prospecting,Marty Freudenburg,medical,Medium,Tier 2: $100M-$499M,Central,66.2,Medium Priority
+S2Y2Q1D2,Singletechno,GTX Plus Basic,Engaging,Marty Freudenburg,retail,Corporate,Tier 4: $1B-$2.5B,Central,66.1,Medium Priority
+8LA72RM8,Donware,MG Advanced,Engaging,Maureen Marcano,marketing,Enterprise,Tier 4: $1B-$2.5B,West,66.1,Medium Priority
+BNY8MJ6L,Labdrill,GTX Basic,Engaging,Kary Hendrixson,medical,Corporate,Tier 5: > $2.5B,West,66.1,Medium Priority
+PU62ZGX4,Singletechno,GTX Plus Basic,Engaging,Jonathan Berthelot,retail,Corporate,Tier 4: $1B-$2.5B,Central,66.1,Medium Priority
+F761DF0M,Silis,GTX Basic,Engaging,Zane Levy,medical,Corporate,Tier 5: > $2.5B,West,66.1,Medium Priority
+JDXSS1HT,Silis,GTX Basic,Engaging,Markita Hansen,medical,Corporate,Tier 5: > $2.5B,West,66.1,Medium Priority
+Z99W80UY,Zencorporation,GTX Plus Pro,Prospecting,Niesha Huffines,technology,Medium,Tier 1: < $100M,Central,66.0,Medium Priority
+5653N8BM,Zoomit,GTX Plus Basic,Engaging,Rosie Papadopoulos,entertainment,Large,Tier 2: $100M-$499M,East,66.0,Medium Priority
+FSNL204U,Hatfan,GTX Plus Pro,Engaging,Marty Freudenburg,services,Enterprise,Tier 3: $500M-$999M,Central,65.9,Medium Priority
+FU2PQZR4,Green-Plus,GTX Plus Pro,Prospecting,Darcel Schlecht,services,Enterprise,Tier 3: $500M-$999M,Central,65.9,Medium Priority
+9PDR4X2R,Hatfan,GTX Plus Pro,Prospecting,Anna Snelling,services,Enterprise,Tier 3: $500M-$999M,Central,65.9,Medium Priority
+WRKPDK7O,Hatfan,GTX Plus Pro,Engaging,Versie Hillebrand,services,Enterprise,Tier 3: $500M-$999M,Central,65.9,Medium Priority
+CVMNBKGH,Hatfan,GTX Plus Pro,Prospecting,Darcel Schlecht,services,Enterprise,Tier 3: $500M-$999M,Central,65.9,Medium Priority
+5W29OCB8,Bioholding,MG Special,Engaging,Lajuana Vencill,medical,Enterprise,Tier 3: $500M-$999M,Central,65.6,Medium Priority
+PR1H7NHK,Mathtouch,MG Special,Engaging,Versie Hillebrand,marketing,Corporate,Tier 5: > $2.5B,Central,65.6,Medium Priority
+TIPXNDS2,Betatech,MG Special,Engaging,Gladys Colclough,medical,Enterprise,Tier 3: $500M-$999M,Central,65.6,Medium Priority
+7DT8UKKY,Zencorporation,GTX Basic,Engaging,Corliss Cosme,technology,Medium,Tier 1: < $100M,East,65.6,Medium Priority
+6WNENPQM,Goodsilron,MG Special,Prospecting,Versie Hillebrand,marketing,Corporate,Tier 5: > $2.5B,Central,65.6,Medium Priority
+8NI8O26G,Goodsilron,MG Special,Prospecting,Cecily Lampkin,marketing,Corporate,Tier 5: > $2.5B,Central,65.6,Medium Priority
+8I84MV5A,Zencorporation,GTX Basic,Engaging,Cassey Cress,technology,Medium,Tier 1: < $100M,East,65.6,Medium Priority
+DS5HZHDA,Betatech,MG Special,Prospecting,Cecily Lampkin,medical,Enterprise,Tier 3: $500M-$999M,Central,65.6,Medium Priority
+021Z2J9L,Rundofase,GTK 500,Engaging,Markita Hansen,technology,Enterprise,Tier 4: $1B-$2.5B,West,65.5,Medium Priority
+NY7Z4I06,Betasoloin,GTX Plus Pro,Engaging,Kary Hendrixson,medical,Medium,Tier 2: $100M-$499M,West,65.4,Medium Priority
+1LHU0876,Labdrill,MG Advanced,Engaging,Elease Gluck,medical,Corporate,Tier 5: > $2.5B,West,65.4,Medium Priority
+LZW4N9KF,Zathunicon,GTX Plus Pro,Prospecting,Darcel Schlecht,retail,Medium,Tier 1: < $100M,Central,65.3,Medium Priority
+61IKUAZI,Dalttechnology,GTX Plus Basic,Engaging,Rosalina Dieter,software,Small,Tier 1: < $100M,West,65.3,Medium Priority
+1XJFMYCW,Golddex,MG Special,Engaging,Anna Snelling,finance,Medium,Tier 1: < $100M,Central,65.3,Medium Priority
+49T7VKA7,Plussunin,GTX Plus Pro,Prospecting,Gladys Colclough,retail,Enterprise,Tier 4: $1B-$2.5B,Central,65.3,Medium Priority
+W2149WNZ,Golddex,MG Special,Prospecting,Versie Hillebrand,finance,Medium,Tier 1: < $100M,Central,65.3,Medium Priority
+NCMT5KK3,Dalttechnology,GTX Basic,Engaging,Vicki Laflamme,software,Small,Tier 1: < $100M,West,65.3,Medium Priority
+CENVLTFH,Toughzap,GTX Plus Basic,Engaging,Corliss Cosme,retail,Large,Tier 2: $100M-$499M,East,65.1,Medium Priority
+YMWG4Z3S,Warephase,GTX Plus Basic,Engaging,Kary Hendrixson,services,Corporate,Tier 4: $1B-$2.5B,West,65.1,Medium Priority
+QEZ2X87C,Iselectrics,MG Special,Engaging,Rosalina Dieter,technology,Enterprise,Tier 3: $500M-$999M,West,65.1,Medium Priority
+0OESOJNN,Warephase,GTX Plus Basic,Engaging,James Ascencio,services,Corporate,Tier 4: $1B-$2.5B,West,65.1,Medium Priority
+JIACLB24,Scottech,GTX Basic,Engaging,Vicki Laflamme,marketing,Medium,Tier 1: < $100M,West,65.0,Medium Priority
+I7BWM5O0,Warephase,MG Special,Engaging,Violet Mclelland,services,Corporate,Tier 4: $1B-$2.5B,East,65.0,Medium Priority
+J5BCAQ1Z,Bioplex,GTX Basic,Engaging,Zane Levy,medical,Enterprise,Tier 2: $100M-$499M,West,65.0,Medium Priority
+Z9QZKUV5,Zumgoity,GTX Basic,Engaging,Zane Levy,medical,Enterprise,Tier 2: $100M-$499M,West,65.0,Medium Priority
+1UW6ILCH,Bioplex,GTX Basic,Engaging,Maureen Marcano,medical,Enterprise,Tier 2: $100M-$499M,West,65.0,Medium Priority
+HIV4W2E0,Betasoloin,GTX Plus Basic,Engaging,Kary Hendrixson,medical,Medium,Tier 2: $100M-$499M,West,65.0,Medium Priority
+5MAXF8FK,The New York Inquirer,GTX Plus Pro,Engaging,Gladys Colclough,medical,Large,Tier 2: $100M-$499M,Central,64.9,Medium Priority
+EZVKSQ9C,Genco Pura Olive Oil Company,GTX Plus Pro,Engaging,Boris Faz,retail,Enterprise,Tier 3: $500M-$999M,East,64.8,Medium Priority
+R8V3ALA8,Konmatfix,GTX Basic,Prospecting,Darcel Schlecht,marketing,Enterprise,Tier 2: $100M-$499M,Central,64.8,Medium Priority
+XBPJ6M4K,Finhigh,GTX Basic,Engaging,Kary Hendrixson,finance,Enterprise,Tier 4: $1B-$2.5B,West,64.7,Medium Priority
+7ZN8YCH8,Gekko & Co,MG Special,Engaging,Versie Hillebrand,retail,Enterprise,Tier 5: > $2.5B,Central,64.7,Medium Priority
+DDHNCZMO,Konex,GTX Plus Pro,Prospecting,Niesha Huffines,technology,Corporate,Tier 5: > $2.5B,Central,64.7,Medium Priority
+Q9UWOC28,Plusstrip,GTX Plus Basic,Prospecting,Anna Snelling,entertainment,Medium,Tier 2: $100M-$499M,Central,64.6,Medium Priority
+XTE9XJTS,Zencorporation,MG Special,Engaging,Kary Hendrixson,technology,Medium,Tier 1: < $100M,West,64.5,Medium Priority
+PO158L29,Blackzim,GTX Basic,Engaging,Cassey Cress,retail,Enterprise,Tier 2: $100M-$499M,East,64.5,Medium Priority
+CT3HBBI2,Mathtouch,MG Special,Engaging,Elease Gluck,marketing,Corporate,Tier 5: > $2.5B,West,64.4,Medium Priority
+RP7KA6HS,Mathtouch,MG Special,Engaging,Elease Gluck,marketing,Corporate,Tier 5: > $2.5B,West,64.4,Medium Priority
+9D43V124,Mathtouch,MG Special,Engaging,Vicki Laflamme,marketing,Corporate,Tier 5: > $2.5B,West,64.4,Medium Priority
+WJQ8VD51,Faxquote,GTX Basic,Engaging,Kami Bicknell,telecommunications,Corporate,Tier 4: $1B-$2.5B,West,64.4,Medium Priority
+NNH4EBG8,Mathtouch,MG Special,Engaging,Vicki Laflamme,marketing,Corporate,Tier 5: > $2.5B,West,64.4,Medium Priority
+VXMFL425,Faxquote,GTX Basic,Engaging,James Ascencio,telecommunications,Corporate,Tier 4: $1B-$2.5B,West,64.4,Medium Priority
+UVCHXUIG,Konmatfix,MG Special,Engaging,Anna Snelling,marketing,Enterprise,Tier 2: $100M-$499M,Central,64.3,Medium Priority
+SE6OIGYN,Isdom,GTX Plus Basic,Engaging,Violet Mclelland,medical,Enterprise,Tier 5: > $2.5B,East,64.3,Medium Priority
+Q9VC6GV0,Konmatfix,MG Special,Engaging,Anna Snelling,marketing,Enterprise,Tier 2: $100M-$499M,Central,64.3,Medium Priority
+VW8CEV4C,Konmatfix,MG Special,Prospecting,Versie Hillebrand,marketing,Enterprise,Tier 2: $100M-$499M,Central,64.3,Medium Priority
+FZWU2I30,The New York Inquirer,GTX Plus Pro,Engaging,Zane Levy,medical,Large,Tier 2: $100M-$499M,West,64.2,Medium Priority
+AF8NG5JC,Betatech,MG Special,Engaging,Cassey Cress,medical,Enterprise,Tier 3: $500M-$999M,East,64.2,Medium Priority
+OEG8QG42,Bioplex,MG Advanced,Prospecting,Anna Snelling,medical,Enterprise,Tier 2: $100M-$499M,Central,64.2,Medium Priority
+EUBMHJGQ,Hottechi,MG Special,Engaging,Versie Hillebrand,technology,Corporate,Tier 5: > $2.5B,Central,64.1,Medium Priority
+RKP2DVSU,Hottechi,MG Special,Prospecting,Niesha Huffines,technology,Corporate,Tier 5: > $2.5B,Central,64.1,Medium Priority
+T3T4OE0A,Konex,MG Special,Prospecting,Niesha Huffines,technology,Corporate,Tier 5: > $2.5B,Central,64.1,Medium Priority
+GZ6SFRAT,Hottechi,MG Special,Engaging,Lajuana Vencill,technology,Corporate,Tier 5: > $2.5B,Central,64.1,Medium Priority
+7WXPAXAV,Rangreen,MG Special,Prospecting,Marty Freudenburg,technology,Corporate,Tier 5: > $2.5B,Central,64.1,Medium Priority
+QD4ONE04,Rangreen,MG Special,Engaging,Anna Snelling,technology,Corporate,Tier 5: > $2.5B,Central,64.1,Medium Priority
+W2K1S9N3,Dalttechnology,GTX Plus Basic,Prospecting,Lajuana Vencill,software,Small,Tier 1: < $100M,Central,64.0,Medium Priority
+S4V0T890,Finjob,MG Advanced,Prospecting,Marty Freudenburg,employment,Enterprise,Tier 4: $1B-$2.5B,Central,63.9,Medium Priority
+S8FODURJ,Nam-zim,GTX Basic,Engaging,Zane Levy,services,Enterprise,Tier 2: $100M-$499M,West,63.9,Medium Priority
+ZKJIVMSG,Finjob,MG Advanced,Prospecting,Lajuana Vencill,employment,Enterprise,Tier 4: $1B-$2.5B,Central,63.9,Medium Priority
+RJ21Q4HO,Hottechi,GTX Basic,Prospecting,Gladys Colclough,technology,Corporate,Tier 5: > $2.5B,Central,63.8,Medium Priority
+2SZX9B7J,Sunnamplex,GTX Plus Pro,Prospecting,Cecily Lampkin,marketing,Enterprise,Tier 3: $500M-$999M,Central,63.8,Medium Priority
+P1SGQODJ,Rangreen,GTX Plus Basic,Engaging,Boris Faz,technology,Corporate,Tier 5: > $2.5B,East,63.8,Medium Priority
+0QPZIIPF,Donware,GTX Plus Basic,Engaging,Vicki Laflamme,marketing,Enterprise,Tier 4: $1B-$2.5B,West,63.8,Medium Priority
+A1TDRYHZ,Rangreen,MG Advanced,Engaging,Rosie Papadopoulos,technology,Corporate,Tier 5: > $2.5B,East,63.8,Medium Priority
+76WK0KFZ,Konex,GTX Basic,Prospecting,Lajuana Vencill,technology,Corporate,Tier 5: > $2.5B,Central,63.8,Medium Priority
+E3XLWCWX,Ontomedia,GTX Plus Pro,Engaging,Marty Freudenburg,employment,Enterprise,Tier 3: $500M-$999M,Central,63.7,Medium Priority
+2TI0MAKP,Lexiqvolax,GTX Basic,Prospecting,Versie Hillebrand,medical,Enterprise,Tier 4: $1B-$2.5B,Central,63.7,Medium Priority
+HF74MC9F,Ganjaflex,GTX Plus Pro,Engaging,Corliss Cosme,retail,Corporate,Tier 5: > $2.5B,East,63.7,Medium Priority
+UFZFCBOS,Lexiqvolax,GTX Basic,Prospecting,Jonathan Berthelot,medical,Enterprise,Tier 4: $1B-$2.5B,Central,63.7,Medium Priority
+L4R7LDY1,Hatfan,MG Special,Engaging,Violet Mclelland,services,Enterprise,Tier 3: $500M-$999M,East,63.7,Medium Priority
+0KSK9O00,Bluth Company,GTX Basic,Prospecting,Lajuana Vencill,technology,Enterprise,Tier 4: $1B-$2.5B,Central,63.6,Medium Priority
+LEJWV2Y5,Donquadtech,GTX Basic,Prospecting,Darcel Schlecht,technology,Enterprise,Tier 4: $1B-$2.5B,Central,63.6,Medium Priority
+O0L6JUYE,Bluth Company,GTX Basic,Engaging,Marty Freudenburg,technology,Enterprise,Tier 4: $1B-$2.5B,Central,63.6,Medium Priority
+GWQX8BSZ,Donquadtech,GTX Basic,Engaging,Niesha Huffines,technology,Enterprise,Tier 4: $1B-$2.5B,Central,63.6,Medium Priority
+XT8HCGAD,Bubba Gump,MG Special,Engaging,Rosalina Dieter,software,Enterprise,Tier 3: $500M-$999M,West,63.6,Medium Priority
+OIIFWY81,Conecom,GTX Basic,Prospecting,Jonathan Berthelot,technology,Enterprise,Tier 4: $1B-$2.5B,Central,63.6,Medium Priority
+TN4KM3D1,Bluth Company,GTX Basic,Prospecting,Jonathan Berthelot,technology,Enterprise,Tier 4: $1B-$2.5B,Central,63.6,Medium Priority
+DMG5EOFC,Lexiqvolax,MG Advanced,Engaging,Violet Mclelland,medical,Enterprise,Tier 4: $1B-$2.5B,East,63.5,Medium Priority
+RKOQZJZR,J-Texon,GTX Plus Basic,Engaging,Zane Levy,retail,Enterprise,Tier 4: $1B-$2.5B,West,63.4,Medium Priority
+SXFE42KG,Gogozoom,MG Advanced,Engaging,Cecily Lampkin,telecommunications,Medium,Tier 1: < $100M,Central,63.4,Medium Priority
+B4SIVH1O,Fasehatice,GTX Basic,Engaging,Daniell Hammack,retail,Corporate,Tier 5: > $2.5B,East,63.3,Medium Priority
+DF1011UT,Konmatfix,GTX Plus Basic,Engaging,Corliss Cosme,marketing,Enterprise,Tier 2: $100M-$499M,East,63.2,Medium Priority
+4SOUOUKH,Treequote,GTX Plus Pro,Engaging,Vicki Laflamme,telecommunications,Corporate,Tier 5: > $2.5B,West,63.2,Medium Priority
+01XZ9CRY,Initech,GTX Plus Pro,Engaging,Zane Levy,telecommunications,Corporate,Tier 5: > $2.5B,West,63.2,Medium Priority
+GZCWM6GK,Statholdings,MG Special,Engaging,Elease Gluck,employment,Large,Tier 2: $100M-$499M,West,63.2,Medium Priority
+I6M40320,Betatech,GTX Plus Basic,Engaging,Niesha Huffines,medical,Enterprise,Tier 3: $500M-$999M,Central,63.1,Medium Priority
+7TFHGN6O,Inity,GTX Plus Pro,Engaging,Darcel Schlecht,marketing,Corporate,Tier 4: $1B-$2.5B,Central,63.1,Medium Priority
+SKBDCYV5,Zencorporation,GTX Plus Basic,Engaging,Zane Levy,technology,Medium,Tier 1: < $100M,West,63.1,Medium Priority
+VMIAO42Z,Donquadtech,GTX Plus Pro,Engaging,Vicki Laflamme,technology,Enterprise,Tier 4: $1B-$2.5B,West,63.0,Medium Priority
+HU970PDK,Donquadtech,GTX Plus Pro,Engaging,James Ascencio,technology,Enterprise,Tier 4: $1B-$2.5B,West,63.0,Medium Priority
+S3W6Q07M,Acme Corporation,GTX Plus Pro,Engaging,Kami Bicknell,technology,Enterprise,Tier 4: $1B-$2.5B,West,63.0,Medium Priority
+K1K48OTP,Conecom,GTX Plus Pro,Engaging,Kary Hendrixson,technology,Enterprise,Tier 4: $1B-$2.5B,West,63.0,Medium Priority
+G1M1KVHU,Xx-zobam,GTX Plus Basic,Engaging,Niesha Huffines,entertainment,Corporate,Tier 5: > $2.5B,Central,62.9,Medium Priority
+DEHQTB8B,Kinnamplus,MG Special,Engaging,Boris Faz,retail,Enterprise,Tier 3: $500M-$999M,East,62.8,Medium Priority
+IN9S33CD,Finhigh,GTX Plus Pro,Engaging,Rosalina Dieter,finance,Enterprise,Tier 4: $1B-$2.5B,West,62.8,Medium Priority
+5UFU5IO4,Cancity,MG Special,Engaging,Corliss Cosme,retail,Enterprise,Tier 3: $500M-$999M,East,62.8,Medium Priority
+WZ3FJA3V,Labdrill,GTX Plus Basic,Engaging,Zane Levy,medical,Corporate,Tier 5: > $2.5B,West,62.8,Medium Priority
+7P069DNF,Labdrill,GTX Plus Basic,Engaging,Kary Hendrixson,medical,Corporate,Tier 5: > $2.5B,West,62.8,Medium Priority
+PYRLUYIQ,Y-corporation,GTX Plus Basic,Engaging,Marty Freudenburg,employment,Corporate,Tier 5: > $2.5B,Central,62.8,Medium Priority
+R55U5QI4,Scottech,GTX Plus Pro,Engaging,Darcel Schlecht,marketing,Medium,Tier 1: < $100M,Central,62.7,Medium Priority
+FZC2J90W,Bluth Company,MG Advanced,Engaging,Maureen Marcano,technology,Enterprise,Tier 4: $1B-$2.5B,West,62.7,Medium Priority
+ORYORRQV,Hottechi,GTX Basic,Engaging,Kary Hendrixson,technology,Corporate,Tier 5: > $2.5B,West,62.7,Medium Priority
+246MLWZ7,Rangreen,GTX Basic,Engaging,Zane Levy,technology,Corporate,Tier 5: > $2.5B,West,62.7,Medium Priority
+XT9QCG8T,Zoomit,GTX Plus Basic,Prospecting,Niesha Huffines,entertainment,Large,Tier 2: $100M-$499M,Central,62.7,Medium Priority
+S2MSQIXP,Hottechi,GTX Basic,Engaging,Zane Levy,technology,Corporate,Tier 5: > $2.5B,West,62.7,Medium Priority
+MNCY3CKD,Nam-zim,GTX Plus Basic,Prospecting,Niesha Huffines,services,Enterprise,Tier 2: $100M-$499M,Central,62.7,Medium Priority
+9RGWSKNU,Kan-code,GTX Plus Pro,Prospecting,Gladys Colclough,software,Corporate,Tier 5: > $2.5B,Central,62.6,Medium Priority
+J9PCNCUP,Golddex,GTX Basic,Engaging,Kary Hendrixson,finance,Medium,Tier 1: < $100M,West,62.6,Medium Priority
+7FZ9CBZ3,Scotfind,GTX Plus Pro,Engaging,Anna Snelling,software,Corporate,Tier 5: > $2.5B,Central,62.6,Medium Priority
+BYF6ABTZ,Opentech,GTX Plus Pro,Engaging,Kary Hendrixson,finance,Large,Tier 2: $100M-$499M,West,62.5,Medium Priority
+PNISVWNN,Scotfind,MG Advanced,Engaging,Darcel Schlecht,software,Corporate,Tier 5: > $2.5B,Central,62.3,Medium Priority
+NXXKM7C7,Cancity,GTX Plus Basic,Engaging,Daniell Hammack,retail,Enterprise,Tier 3: $500M-$999M,East,62.2,Medium Priority
+BO1ZOZG2,Ontomedia,GTX Plus Basic,Engaging,Kary Hendrixson,employment,Enterprise,Tier 3: $500M-$999M,West,62.2,Medium Priority
+JJGRAQ2K,Rangreen,GTX Plus Pro,Engaging,Kary Hendrixson,technology,Corporate,Tier 5: > $2.5B,West,62.2,Medium Priority
+7Y530NLJ,Genco Pura Olive Oil Company,GTX Plus Basic,Engaging,Boris Faz,retail,Enterprise,Tier 3: $500M-$999M,East,62.2,Medium Priority
+VAM56BG4,Acme Corporation,GTX Plus Basic,Prospecting,Darcel Schlecht,technology,Enterprise,Tier 4: $1B-$2.5B,Central,62.1,Medium Priority
+579LZ3F9,J-Texon,GTX Plus Basic,Engaging,Daniell Hammack,retail,Enterprise,Tier 4: $1B-$2.5B,East,62.1,Medium Priority
+ARBTXSEH,Globex Corporation,GTX Plus Basic,Prospecting,Jonathan Berthelot,technology,Enterprise,Tier 4: $1B-$2.5B,Central,62.1,Medium Priority
+YYMKOAVY,Donquadtech,GTX Plus Basic,Prospecting,Marty Freudenburg,technology,Enterprise,Tier 4: $1B-$2.5B,Central,62.1,Medium Priority
+JUHQ1POT,Streethex,GTX Plus Basic,Engaging,Boris Faz,retail,Enterprise,Tier 4: $1B-$2.5B,East,62.1,Medium Priority
+RIC5ZHK4,Plussunin,GTX Plus Basic,Engaging,Corliss Cosme,retail,Enterprise,Tier 4: $1B-$2.5B,East,62.1,Medium Priority
+RYNZ2WOK,Iselectrics,MG Advanced,Engaging,Markita Hansen,technology,Enterprise,Tier 3: $500M-$999M,West,62.1,Medium Priority
+GEQ7KT9J,Plussunin,GTX Plus Basic,Engaging,Wilburn Farren,retail,Enterprise,Tier 4: $1B-$2.5B,East,62.1,Medium Priority
+E617EXPD,Iselectrics,MG Advanced,Engaging,Vicki Laflamme,technology,Enterprise,Tier 3: $500M-$999M,West,62.1,Medium Priority
+N5UIZYIV,Konmatfix,MG Special,Engaging,Zane Levy,marketing,Enterprise,Tier 2: $100M-$499M,West,62.0,Medium Priority
+FMRVHL9O,Toughzap,GTX Plus Basic,Prospecting,Marty Freudenburg,retail,Large,Tier 2: $100M-$499M,Central,62.0,Medium Priority
+ANRCHVJM,Plusstrip,MG Special,Engaging,Violet Mclelland,entertainment,Medium,Tier 2: $100M-$499M,East,62.0,Medium Priority
+CZ8PPZTC,Bioplex,MG Special,Engaging,Rosie Papadopoulos,medical,Enterprise,Tier 2: $100M-$499M,East,61.9,Medium Priority
+XETF5BVH,Finjob,GTX Plus Pro,Prospecting,Darcel Schlecht,employment,Enterprise,Tier 4: $1B-$2.5B,Central,61.7,Medium Priority
+CMW6IQJI,Faxquote,MG Advanced,Engaging,Niesha Huffines,telecommunications,Corporate,Tier 4: $1B-$2.5B,Central,61.7,Medium Priority
+YVFK9Q0W,Faxquote,MG Advanced,Prospecting,Niesha Huffines,telecommunications,Corporate,Tier 4: $1B-$2.5B,Central,61.7,Medium Priority
+52V1RWCZ,Stanredtax,GTX Basic,Prospecting,Moses Frase,finance,Enterprise,Tier 4: $1B-$2.5B,Central,61.6,Medium Priority
+ZT1234V3,Ron-tech,MG Advanced,Prospecting,Gladys Colclough,medical,Corporate,Tier 5: > $2.5B,Central,61.6,Medium Priority
+9CYYLZ11,Stanredtax,GTX Basic,Prospecting,Marty Freudenburg,finance,Enterprise,Tier 4: $1B-$2.5B,Central,61.6,Medium Priority
+8M2O0Q8V,Silis,MG Advanced,Prospecting,Versie Hillebrand,medical,Corporate,Tier 5: > $2.5B,Central,61.6,Medium Priority
+WARBRUXU,Stanredtax,GTX Basic,Engaging,Jonathan Berthelot,finance,Enterprise,Tier 4: $1B-$2.5B,Central,61.6,Medium Priority
+YY2DWBG5,Ron-tech,MG Advanced,Engaging,Versie Hillebrand,medical,Corporate,Tier 5: > $2.5B,Central,61.6,Medium Priority
+9SLINQY5,Newex,MG Advanced,Engaging,Markita Hansen,services,Enterprise,Tier 4: $1B-$2.5B,West,61.6,Medium Priority
+K7056XS7,Kinnamplus,MG Advanced,Engaging,Rosie Papadopoulos,retail,Enterprise,Tier 3: $500M-$999M,East,61.5,Medium Priority
+C5B5WBY9,Sumace,GTX Plus Basic,Prospecting,Versie Hillebrand,retail,Medium,Tier 2: $100M-$499M,Central,61.5,Medium Priority
+0N11U6L3,Acme Corporation,GTX Plus Basic,Engaging,Daniell Hammack,technology,Enterprise,Tier 4: $1B-$2.5B,East,61.4,Medium Priority
+MPME6VZD,Dontechi,GTX Plus Basic,Engaging,Kami Bicknell,software,Corporate,Tier 5: > $2.5B,West,61.4,Medium Priority
+49T60OCI,Scottech,GTX Plus Pro,Engaging,Cassey Cress,marketing,Medium,Tier 1: < $100M,East,61.4,Medium Priority
+EF24VTVA,Kinnamplus,GTX Plus Pro,Engaging,James Ascencio,retail,Enterprise,Tier 3: $500M-$999M,West,61.4,Medium Priority
+H7GXKD3O,Kan-code,GTX Plus Basic,Engaging,Maureen Marcano,software,Corporate,Tier 5: > $2.5B,West,61.4,Medium Priority
+37UCYEDY,Bluth Company,GTX Plus Basic,Engaging,Cassey Cress,technology,Enterprise,Tier 4: $1B-$2.5B,East,61.4,Medium Priority
+OT5G3M9A,Treequote,MG Advanced,Engaging,Cecily Lampkin,telecommunications,Corporate,Tier 5: > $2.5B,Central,61.3,Medium Priority
+XYNTWPN1,Rundofase,MG Special,Engaging,Violet Mclelland,technology,Enterprise,Tier 4: $1B-$2.5B,East,61.3,Medium Priority
+TOJ902PF,Bioholding,GTX Plus Basic,Engaging,Daniell Hammack,medical,Enterprise,Tier 3: $500M-$999M,East,61.3,Medium Priority
+SJ3QA8KP,Treequote,MG Advanced,Engaging,Niesha Huffines,telecommunications,Corporate,Tier 5: > $2.5B,Central,61.3,Medium Priority
+L1YN7LDL,Bluth Company,MG Special,Engaging,Cassey Cress,technology,Enterprise,Tier 4: $1B-$2.5B,East,61.3,Medium Priority
+SP9W5IND,Acme Corporation,MG Special,Engaging,Boris Faz,technology,Enterprise,Tier 4: $1B-$2.5B,East,61.3,Medium Priority
+3N3RAHXR,Nam-zim,GTX Plus Basic,Engaging,Cassey Cress,services,Enterprise,Tier 2: $100M-$499M,East,61.2,Medium Priority
+RJYG004O,Domzoom,GTX Basic,Engaging,Daniell Hammack,entertainment,Large,Tier 2: $100M-$499M,East,61.0,Medium Priority
+ZGK1AWBD,Vehement Capital Partners,MG Special,Engaging,Boris Faz,finance,Large,Tier 3: $500M-$999M,East,61.0,Medium Priority
+VGSH1TSW,Vehement Capital Partners,MG Special,Engaging,Violet Mclelland,finance,Large,Tier 3: $500M-$999M,East,61.0,Medium Priority
+IGHYUSN8,Golddex,GTX Plus Pro,Engaging,Vicki Laflamme,finance,Medium,Tier 1: < $100M,West,61.0,Medium Priority
+29W6WPLA,Gekko & Co,GTX Plus Basic,Engaging,Jonathan Berthelot,retail,Enterprise,Tier 5: > $2.5B,Central,61.0,Medium Priority
+BTDY3DHP,Vehement Capital Partners,GTX Plus Pro,Prospecting,Gladys Colclough,finance,Large,Tier 3: $500M-$999M,Central,60.9,Medium Priority
+TJ03NDNX,Iselectrics,MG Advanced,Engaging,Violet Mclelland,technology,Enterprise,Tier 3: $500M-$999M,East,60.9,Medium Priority
+2BXYT4PD,Funholding,GTX Plus Pro,Engaging,Hayden Neloms,finance,Corporate,Tier 5: > $2.5B,West,60.8,Medium Priority
+7D75QXBD,Groovestreet,GTX Plus Basic,Engaging,Kary Hendrixson,retail,Medium,Tier 2: $100M-$499M,West,60.8,Medium Priority
+BBOWBQA6,Blackzim,GTX Plus Pro,Engaging,Niesha Huffines,retail,Enterprise,Tier 2: $100M-$499M,Central,60.8,Medium Priority
+NXJNQ3Z9,Plexzap,GTX Plus Basic,Prospecting,Gladys Colclough,retail,Enterprise,Tier 4: $1B-$2.5B,Central,60.7,Medium Priority
+0HR4TEU4,Plussunin,GTX Plus Basic,Prospecting,Marty Freudenburg,retail,Enterprise,Tier 4: $1B-$2.5B,Central,60.7,Medium Priority
+LKDSEQ2Q,Yearin,GTX Plus Basic,Prospecting,Darcel Schlecht,retail,Enterprise,Tier 4: $1B-$2.5B,Central,60.7,Medium Priority
+E0S2ZL6X,Streethex,GTX Plus Basic,Prospecting,Niesha Huffines,retail,Enterprise,Tier 4: $1B-$2.5B,Central,60.7,Medium Priority
+X3ZSQCH8,Scotfind,GTX Basic,Engaging,Kami Bicknell,software,Corporate,Tier 5: > $2.5B,West,60.6,Medium Priority
+ZTLLHCBU,Dontechi,GTX Basic,Engaging,Kary Hendrixson,software,Corporate,Tier 5: > $2.5B,West,60.6,Medium Priority
+MI3MV7PU,Acme Corporation,MG Advanced,Prospecting,Marty Freudenburg,technology,Enterprise,Tier 4: $1B-$2.5B,Central,60.5,Medium Priority
+9HA8VBAP,Donquadtech,MG Advanced,Prospecting,Darcel Schlecht,technology,Enterprise,Tier 4: $1B-$2.5B,Central,60.5,Medium Priority
+PDMZ1I99,Globex Corporation,MG Advanced,Engaging,Lajuana Vencill,technology,Enterprise,Tier 4: $1B-$2.5B,Central,60.5,Medium Priority
+EMH2I8XE,Acme Corporation,MG Advanced,Engaging,Lajuana Vencill,technology,Enterprise,Tier 4: $1B-$2.5B,Central,60.5,Medium Priority
+Z236WCM1,Vehement Capital Partners,GTX Plus Basic,Engaging,Kary Hendrixson,finance,Large,Tier 3: $500M-$999M,West,60.5,Medium Priority
+Y9EBNML6,Donquadtech,MG Advanced,Prospecting,Moses Frase,technology,Enterprise,Tier 4: $1B-$2.5B,Central,60.5,Medium Priority
+LDQITW5C,Acme Corporation,MG Advanced,Engaging,Lajuana Vencill,technology,Enterprise,Tier 4: $1B-$2.5B,Central,60.5,Medium Priority
+ZNEQXZZK,Donquadtech,MG Advanced,Engaging,Anna Snelling,technology,Enterprise,Tier 4: $1B-$2.5B,Central,60.5,Medium Priority
+KPH05GU8,The New York Inquirer,MG Advanced,Engaging,Lajuana Vencill,medical,Large,Tier 2: $100M-$499M,Central,60.4,Medium Priority
+4G0X8VHP,Y-corporation,MG Advanced,Engaging,Markita Hansen,employment,Corporate,Tier 5: > $2.5B,West,60.4,Medium Priority
+5XPYFICK,Inity,MG Special,Engaging,Rosie Papadopoulos,marketing,Corporate,Tier 4: $1B-$2.5B,East,60.4,Medium Priority
+18YA4UUP,Xx-zobam,GTX Plus Pro,Engaging,Versie Hillebrand,entertainment,Corporate,Tier 5: > $2.5B,Central,60.3,Medium Priority
+OAMIMSUU,Cheers,GTX Plus Pro,Prospecting,Jonathan Berthelot,entertainment,Corporate,Tier 5: > $2.5B,Central,60.3,Medium Priority
+QIHWKCFK,Singletechno,MG Advanced,Engaging,Cassey Cress,retail,Corporate,Tier 4: $1B-$2.5B,East,60.2,Medium Priority
+LD4F6QTP,Groovestreet,GTX Plus Pro,Engaging,Anna Snelling,retail,Medium,Tier 2: $100M-$499M,Central,60.1,Medium Priority
+9P9ISECL,Sumace,GTX Plus Pro,Prospecting,Anna Snelling,retail,Medium,Tier 2: $100M-$499M,Central,60.1,Medium Priority
+J31SUXQJ,Sumace,GTX Plus Pro,Engaging,Marty Freudenburg,retail,Medium,Tier 2: $100M-$499M,Central,60.1,Medium Priority
+9BM1CGBV,Sumace,MG Special,Prospecting,Cecily Lampkin,retail,Medium,Tier 2: $100M-$499M,Central,60.1,Medium Priority
+R9AVNYCO,Conecom,GTX Plus Basic,Engaging,Zane Levy,technology,Enterprise,Tier 4: $1B-$2.5B,West,60.0,Medium Priority
+9M72KPA3,Bluth Company,GTX Plus Basic,Engaging,Kami Bicknell,technology,Enterprise,Tier 4: $1B-$2.5B,West,60.0,Medium Priority
+CYWZJ2AI,Donquadtech,GTX Plus Basic,Engaging,Kary Hendrixson,technology,Enterprise,Tier 4: $1B-$2.5B,West,60.0,Medium Priority
+8SVMGDPA,Donquadtech,GTX Plus Basic,Engaging,Maureen Marcano,technology,Enterprise,Tier 4: $1B-$2.5B,West,60.0,Medium Priority
+AZN2K0V9,Ganjaflex,MG Advanced,Engaging,Anna Snelling,retail,Corporate,Tier 5: > $2.5B,Central,59.9,Medium Priority
+BG0BLC6S,Fasehatice,MG Advanced,Prospecting,Anna Snelling,retail,Corporate,Tier 5: > $2.5B,Central,59.9,Medium Priority
+FCNN6UY0,Ganjaflex,MG Advanced,Prospecting,Versie Hillebrand,retail,Corporate,Tier 5: > $2.5B,Central,59.9,Medium Priority
+T9QD8U1Y,Betasoloin,MG Special,Engaging,Darcel Schlecht,medical,Medium,Tier 2: $100M-$499M,Central,59.8,Medium Priority
+WLS5J30E,Inity,MG Special,Engaging,Elease Gluck,marketing,Corporate,Tier 4: $1B-$2.5B,West,59.8,Medium Priority
+NEFPSWOJ,Toughzap,GTX Plus Basic,Engaging,Markita Hansen,retail,Large,Tier 2: $100M-$499M,West,59.7,Medium Priority
+E6DGJSDW,Green-Plus,MG Special,Prospecting,Anna Snelling,services,Enterprise,Tier 3: $500M-$999M,Central,59.6,Medium Priority
+3CB3WNBM,Kinnamplus,GTX Basic,Engaging,Boris Faz,retail,Enterprise,Tier 3: $500M-$999M,East,59.6,Medium Priority
+VIY7P8J6,Hatfan,MG Special,Engaging,Versie Hillebrand,services,Enterprise,Tier 3: $500M-$999M,Central,59.6,Medium Priority
+HB740BLB,Silis,MG Special,Engaging,Hayden Neloms,medical,Corporate,Tier 5: > $2.5B,West,59.6,Medium Priority
+LR45YFE4,Groovestreet,MG Special,Engaging,Violet Mclelland,retail,Medium,Tier 2: $100M-$499M,East,59.5,Medium Priority
+3FWZBSW1,Cancity,MG Special,Engaging,Versie Hillebrand,retail,Enterprise,Tier 3: $500M-$999M,Central,59.5,Medium Priority
+WRUG19FZ,Vehement Capital Partners,MG Advanced,Engaging,Hayden Neloms,finance,Large,Tier 3: $500M-$999M,West,59.5,Medium Priority
+AWCGYWTE,Kinnamplus,MG Special,Engaging,Moses Frase,retail,Enterprise,Tier 3: $500M-$999M,Central,59.5,Medium Priority
+PFFHM7HR,Opentech,MG Advanced,Engaging,Markita Hansen,finance,Large,Tier 2: $100M-$499M,West,59.4,Medium Priority
+SWJ9OOZU,Opentech,MG Advanced,Engaging,Hayden Neloms,finance,Large,Tier 2: $100M-$499M,West,59.4,Medium Priority
+LDK61ORQ,Xx-zobam,MG Special,Engaging,Hayden Neloms,entertainment,Corporate,Tier 5: > $2.5B,West,59.4,Medium Priority
+O8JCYJSV,Silis,GTX Plus Basic,Prospecting,Marty Freudenburg,medical,Corporate,Tier 5: > $2.5B,Central,59.3,Medium Priority
+ZTCQWF53,Faxquote,GTX Plus Basic,Prospecting,Darcel Schlecht,telecommunications,Corporate,Tier 4: $1B-$2.5B,Central,59.3,Medium Priority
+IAV71BEX,Singletechno,MG Advanced,Prospecting,Cecily Lampkin,retail,Corporate,Tier 4: $1B-$2.5B,Central,59.2,Medium Priority
+X9HFP474,Dontechi,GTX Basic,Engaging,Daniell Hammack,software,Corporate,Tier 5: > $2.5B,East,59.2,Medium Priority
+BJJQSJD8,Zotware,GTX Plus Basic,Engaging,Daniell Hammack,software,Corporate,Tier 5: > $2.5B,East,59.2,Medium Priority
+693K7IAT,Funholding,GTX Basic,Engaging,Boris Faz,finance,Corporate,Tier 5: > $2.5B,East,59.2,Medium Priority
+2BD1SDBX,Vehement Capital Partners,GTX Basic,Prospecting,Jonathan Berthelot,finance,Large,Tier 3: $500M-$999M,Central,59.2,Medium Priority
+STT3X4NB,Xx-holding,GTX Basic,Engaging,Violet Mclelland,finance,Corporate,Tier 5: > $2.5B,East,59.2,Medium Priority
+I6PXHXST,Singletechno,MG Advanced,Engaging,Marty Freudenburg,retail,Corporate,Tier 4: $1B-$2.5B,Central,59.2,Medium Priority
+USVLKDF4,Dontechi,GTX Basic,Engaging,Corliss Cosme,software,Corporate,Tier 5: > $2.5B,East,59.2,Medium Priority
+0I6U3MQ6,Funholding,GTX Basic,Engaging,Violet Mclelland,finance,Corporate,Tier 5: > $2.5B,East,59.2,Medium Priority
+EM1BA4EK,Scotfind,GTX Basic,Engaging,Cassey Cress,software,Corporate,Tier 5: > $2.5B,East,59.2,Medium Priority
+RTWAUR7C,Y-corporation,GTX Plus Pro,Engaging,Gladys Colclough,employment,Corporate,Tier 5: > $2.5B,Central,59.1,Medium Priority
+O7UUAK3Y,dambase,GTX Plus Basic,Engaging,Corliss Cosme,marketing,Enterprise,Tier 4: $1B-$2.5B,East,58.9,Medium Priority
+3E4VTH6E,Hatfan,MG Special,Engaging,Hayden Neloms,services,Enterprise,Tier 3: $500M-$999M,West,58.8,Medium Priority
+QJ1DIUN7,Ganjaflex,MG Special,Engaging,Rosalina Dieter,retail,Corporate,Tier 5: > $2.5B,West,58.8,Medium Priority
+GRYHHER0,Finhigh,MG Special,Engaging,Hayden Neloms,finance,Enterprise,Tier 4: $1B-$2.5B,West,58.7,Medium Priority
+JQBN7PXK,Xx-zobam,MG Advanced,Prospecting,Gladys Colclough,entertainment,Corporate,Tier 5: > $2.5B,Central,58.7,Medium Priority
+ZK4S74FD,Singletechno,GTX Plus Pro,Engaging,Vicki Laflamme,retail,Corporate,Tier 4: $1B-$2.5B,West,58.6,Medium Priority
+P4D8H19O,Isdom,GTX Plus Basic,Prospecting,Jonathan Berthelot,medical,Enterprise,Tier 5: > $2.5B,Central,58.4,Medium Priority
+B00UMAV4,Gogozoom,MG Advanced,Engaging,Kami Bicknell,telecommunications,Medium,Tier 1: < $100M,West,58.4,Medium Priority
+CN8X0DLA,Stanredtax,GTX Plus Basic,Engaging,Daniell Hammack,finance,Enterprise,Tier 4: $1B-$2.5B,East,58.3,Medium Priority
+125VIRMX,Warephase,GTK 500,Engaging,Elease Gluck,services,Corporate,Tier 4: $1B-$2.5B,West,58.3,Medium Priority
+SU1NDYXR,Stanredtax,GTX Plus Basic,Engaging,Boris Faz,finance,Enterprise,Tier 4: $1B-$2.5B,East,58.3,Medium Priority
+IE7VQ5BA,Finhigh,GTX Plus Basic,Engaging,Daniell Hammack,finance,Enterprise,Tier 4: $1B-$2.5B,East,58.3,Medium Priority
+PGXIPGDM,Lexiqvolax,MG Advanced,Engaging,Vicki Laflamme,medical,Enterprise,Tier 4: $1B-$2.5B,West,58.2,Medium Priority
+RYWETTBK,Fasehatice,GTX Basic,Engaging,Kami Bicknell,retail,Corporate,Tier 5: > $2.5B,West,58.2,Medium Priority
+K9KGXL2E,Lexiqvolax,MG Advanced,Engaging,Markita Hansen,medical,Enterprise,Tier 4: $1B-$2.5B,West,58.2,Medium Priority
+T0VJ4AMX,Green-Plus,GTX Basic,Engaging,Corliss Cosme,services,Enterprise,Tier 3: $500M-$999M,East,58.2,Medium Priority
+ZJQKUIZ4,Opentech,MG Special,Engaging,Kary Hendrixson,finance,Large,Tier 2: $100M-$499M,West,58.1,Medium Priority
+TDJ3N8EJ,Kinnamplus,MG Advanced,Engaging,Kami Bicknell,retail,Enterprise,Tier 3: $500M-$999M,West,58.1,Medium Priority
+TLJWMKEO,Iselectrics,GTX Plus Basic,Prospecting,Gladys Colclough,technology,Enterprise,Tier 3: $500M-$999M,Central,58.0,Medium Priority
+ISQJD695,Sunnamplex,GTX Basic,Engaging,Boris Faz,marketing,Enterprise,Tier 3: $500M-$999M,East,58.0,Medium Priority
+PM2BF2KB,Xx-holding,GTX Plus Basic,Engaging,Cassey Cress,finance,Corporate,Tier 5: > $2.5B,East,58.0,Medium Priority
+LCQ934W7,Xx-holding,GTX Plus Basic,Engaging,Cassey Cress,finance,Corporate,Tier 5: > $2.5B,East,58.0,Medium Priority
+SZS2IPM3,Doncon,MG Advanced,Engaging,Versie Hillebrand,technology,Enterprise,Tier 3: $500M-$999M,Central,57.8,Medium Priority
+AI76U58A,Treequote,GTX Basic,Engaging,Maureen Marcano,telecommunications,Corporate,Tier 5: > $2.5B,West,57.8,Medium Priority
+FWTTJ2G8,Initech,GTX Basic,Engaging,Kary Hendrixson,telecommunications,Corporate,Tier 5: > $2.5B,West,57.8,Medium Priority
+EQCD7G7Q,Initech,GTX Basic,Engaging,Rosalina Dieter,telecommunications,Corporate,Tier 5: > $2.5B,West,57.8,Medium Priority
+CLRPASVW,Cancity,GTX Basic,Engaging,Kami Bicknell,retail,Enterprise,Tier 3: $500M-$999M,West,57.8,Medium Priority
+9A9E1KPG,Genco Pura Olive Oil Company,GTX Basic,Engaging,Elease Gluck,retail,Enterprise,Tier 3: $500M-$999M,West,57.8,Medium Priority
+AP74NF6M,Iselectrics,MG Advanced,Prospecting,Marty Freudenburg,technology,Enterprise,Tier 3: $500M-$999M,Central,57.8,Medium Priority
+I35REHYN,Genco Pura Olive Oil Company,GTX Basic,Engaging,Vicki Laflamme,retail,Enterprise,Tier 3: $500M-$999M,West,57.8,Medium Priority
+JA5G7YBO,Blackzim,MG Special,Engaging,Markita Hansen,retail,Enterprise,Tier 2: $100M-$499M,West,57.8,Medium Priority
+D9MZMDOL,Zumgoity,MG Special,Engaging,Vicki Laflamme,medical,Enterprise,Tier 2: $100M-$499M,West,57.7,Medium Priority
+YQ0Y0YQS,Newex,MG Advanced,Engaging,Violet Mclelland,services,Enterprise,Tier 4: $1B-$2.5B,East,57.7,Medium Priority
+F2B62IW4,Bioplex,MG Special,Engaging,Maureen Marcano,medical,Enterprise,Tier 2: $100M-$499M,West,57.7,Medium Priority
+I5VHXAWW,Bluth Company,GTX Plus Pro,Engaging,Boris Faz,technology,Enterprise,Tier 4: $1B-$2.5B,East,57.7,Medium Priority
+7DOGGIXI,Bioplex,MG Special,Engaging,Elease Gluck,medical,Enterprise,Tier 2: $100M-$499M,West,57.7,Medium Priority
+SY61BAXZ,Rantouch,GTX Plus Basic,Engaging,Cassey Cress,telecommunications,Enterprise,Tier 4: $1B-$2.5B,East,57.4,Medium Priority
+7868JVH9,Rantouch,GTX Plus Basic,Engaging,Cassey Cress,telecommunications,Enterprise,Tier 4: $1B-$2.5B,East,57.4,Medium Priority
+WTD6O2OR,Betasoloin,MG Advanced,Prospecting,Anna Snelling,medical,Medium,Tier 2: $100M-$499M,Central,56.8,Medium Priority
+UP409DSB,Ganjaflex,MG Advanced,Engaging,Maureen Marcano,retail,Corporate,Tier 5: > $2.5B,West,56.8,Medium Priority
+WM7XURV6,Groovestreet,GTX Plus Basic,Engaging,Corliss Cosme,retail,Medium,Tier 2: $100M-$499M,East,56.8,Medium Priority
+J53D8EOL,Hottechi,GTX Plus Basic,Engaging,Kary Hendrixson,technology,Corporate,Tier 5: > $2.5B,West,56.6,Medium Priority
+OPCLCCQH,Konex,GTX Plus Basic,Engaging,Kami Bicknell,technology,Corporate,Tier 5: > $2.5B,West,56.6,Medium Priority
+8GV0BQTU,Xx-holding,MG Advanced,Engaging,Kary Hendrixson,finance,Corporate,Tier 5: > $2.5B,West,56.4,Medium Priority
+IKU97NEU,Funholding,MG Advanced,Engaging,Markita Hansen,finance,Corporate,Tier 5: > $2.5B,West,56.4,Medium Priority
+ALZNZ666,Toughzap,MG Advanced,Engaging,Boris Faz,retail,Large,Tier 2: $100M-$499M,East,56.3,Medium Priority
+PSMWYTMB,Toughzap,MG Advanced,Engaging,Boris Faz,retail,Large,Tier 2: $100M-$499M,East,56.3,Medium Priority
+FH30JK3J,Ontomedia,GTX Plus Basic,Engaging,Cassey Cress,employment,Enterprise,Tier 3: $500M-$999M,East,56.2,Medium Priority
+MV7I9RKH,Treequote,GTX Plus Basic,Engaging,Marty Freudenburg,telecommunications,Corporate,Tier 5: > $2.5B,Central,56.2,Medium Priority
+5Q2BX622,Inity,MG Advanced,Prospecting,Anna Snelling,marketing,Corporate,Tier 4: $1B-$2.5B,Central,56.2,Medium Priority
+ACGLK2YE,Treequote,GTX Plus Basic,Engaging,Moses Frase,telecommunications,Corporate,Tier 5: > $2.5B,Central,56.2,Medium Priority
+SZAMHBGA,Nam-zim,MG Advanced,Engaging,Violet Mclelland,services,Enterprise,Tier 2: $100M-$499M,East,56.1,Medium Priority
+EJUQOEY5,Bubba Gump,MG Advanced,Prospecting,Darcel Schlecht,software,Enterprise,Tier 3: $500M-$999M,Central,56.1,Medium Priority
+WLDFQR7Z,Bubba Gump,MG Advanced,Engaging,Darcel Schlecht,software,Enterprise,Tier 3: $500M-$999M,Central,56.1,Medium Priority
+0DRC1U9Q,Green-Plus,GTX Basic,Engaging,Maureen Marcano,services,Enterprise,Tier 3: $500M-$999M,West,55.8,Medium Priority
+8TRT2HNF,Green-Plus,GTX Basic,Engaging,Markita Hansen,services,Enterprise,Tier 3: $500M-$999M,West,55.8,Medium Priority
+VPG5E490,Bubba Gump,GTX Basic,Engaging,Boris Faz,software,Enterprise,Tier 3: $500M-$999M,East,55.6,Medium Priority
+KJHM27ZM,Labdrill,GTX Plus Pro,Engaging,Daniell Hammack,medical,Corporate,Tier 5: > $2.5B,East,55.5,Medium Priority
+HJY0TQ7X,Toughzap,MG Special,Engaging,Zane Levy,retail,Large,Tier 2: $100M-$499M,West,55.4,Medium Priority
+BJOY31DL,Betasoloin,MG Special,Engaging,Violet Mclelland,medical,Medium,Tier 2: $100M-$499M,East,55.4,Medium Priority
+OO9U4C0Y,Y-corporation,GTX Plus Basic,Engaging,Cassey Cress,employment,Corporate,Tier 5: > $2.5B,East,55.2,Medium Priority
+25FUROM1,Y-corporation,GTX Plus Basic,Engaging,Daniell Hammack,employment,Corporate,Tier 5: > $2.5B,East,55.2,Medium Priority
+M7I5O9YU,Cheers,GTX Basic,Engaging,Corliss Cosme,entertainment,Corporate,Tier 5: > $2.5B,East,55.2,Medium Priority
+10ALJD82,Nam-zim,MG Special,Prospecting,Anna Snelling,services,Enterprise,Tier 2: $100M-$499M,Central,55.2,Medium Priority
+E5V4WT18,Genco Pura Olive Oil Company,MG Special,Engaging,Vicki Laflamme,retail,Enterprise,Tier 3: $500M-$999M,West,55.1,Medium Priority
+RD6Y5R4P,Cancity,MG Special,Engaging,Kami Bicknell,retail,Enterprise,Tier 3: $500M-$999M,West,55.1,Medium Priority
+26CH1NDR,Mathtouch,GTX Basic,Engaging,Daniell Hammack,marketing,Corporate,Tier 5: > $2.5B,East,55.0,Medium Priority
+WZN26QZQ,Lexiqvolax,GTX Plus Pro,Engaging,Corliss Cosme,medical,Enterprise,Tier 4: $1B-$2.5B,East,54.9,Medium Priority
+SU8JNMP4,Bubba Gump,GTX Plus Basic,Engaging,Kami Bicknell,software,Enterprise,Tier 3: $500M-$999M,West,54.6,Medium Priority
+5M5TW9RC,Umbrella Corporation,GTX Plus Basic,Engaging,Cassey Cress,finance,Corporate,Tier 4: $1B-$2.5B,East,54.6,Medium Priority
+23J295J4,Xx-holding,MG Special,Engaging,Rosalina Dieter,finance,Corporate,Tier 5: > $2.5B,West,54.5,Medium Priority
+ZI89S9HC,Dalttechnology,MG Advanced,Engaging,Markita Hansen,software,Small,Tier 1: < $100M,West,54.5,Medium Priority
+MA56XGWR,Iselectrics,GTX Basic,Engaging,Daniell Hammack,technology,Enterprise,Tier 3: $500M-$999M,East,54.5,Medium Priority
+EZDMNAK8,Plussunin,MG Advanced,Engaging,Lajuana Vencill,retail,Enterprise,Tier 4: $1B-$2.5B,Central,54.4,Medium Priority
+RSY2XLKK,Streethex,MG Advanced,Prospecting,Anna Snelling,retail,Enterprise,Tier 4: $1B-$2.5B,Central,54.4,Medium Priority
+8CBTC1PX,Streethex,MG Advanced,Engaging,Marty Freudenburg,retail,Enterprise,Tier 4: $1B-$2.5B,Central,54.4,Medium Priority
+8TFYRWZ6,Mathtouch,MG Advanced,Engaging,Gladys Colclough,marketing,Corporate,Tier 5: > $2.5B,Central,54.3,Medium Priority
+5CZBHSRI,Toughzap,MG Advanced,Engaging,Kary Hendrixson,retail,Large,Tier 2: $100M-$499M,West,54.2,Medium Priority
+0STR2QEA,Inity,GTX Plus Pro,Engaging,Corliss Cosme,marketing,Corporate,Tier 4: $1B-$2.5B,East,53.8,Medium Priority
+JQ338VQC,Blackzim,MG Special,Prospecting,Versie Hillebrand,retail,Enterprise,Tier 2: $100M-$499M,Central,53.8,Medium Priority
+URRD7VUB,Blackzim,MG Special,Prospecting,Jonathan Berthelot,retail,Enterprise,Tier 2: $100M-$499M,Central,53.8,Medium Priority
+F22C6LKO,The New York Inquirer,MG Special,Prospecting,Gladys Colclough,medical,Large,Tier 2: $100M-$499M,Central,53.7,Medium Priority
+MCE5DKD1,Bioholding,MG Special,Engaging,Markita Hansen,medical,Enterprise,Tier 3: $500M-$999M,West,53.7,Medium Priority
+5VW9YVTU,Condax,GTX Basic,Engaging,Moses Frase,medical,Small,Tier 1: < $100M,Central,53.7,Medium Priority
+LTVGILHP,Bioholding,GTX Basic,Engaging,Kary Hendrixson,medical,Enterprise,Tier 3: $500M-$999M,West,53.7,Medium Priority
+EL09RK8X,Dalttechnology,MG Advanced,Prospecting,Moses Frase,software,Small,Tier 1: < $100M,Central,53.6,Medium Priority
+4DLY9ZDH,Dalttechnology,MG Advanced,Engaging,Anna Snelling,software,Small,Tier 1: < $100M,Central,53.6,Medium Priority
+PKDJTR06,Hatfan,GTX Plus Basic,Engaging,Kami Bicknell,services,Enterprise,Tier 3: $500M-$999M,West,53.5,Medium Priority
+DFFEQ87N,Scottech,MG Special,Engaging,Maureen Marcano,marketing,Medium,Tier 1: < $100M,West,53.5,Medium Priority
+OI3UIKVF,Konmatfix,GTX Plus Basic,Engaging,Hayden Neloms,marketing,Enterprise,Tier 2: $100M-$499M,West,53.5,Medium Priority
+BTT6YAVZ,Green-Plus,GTX Plus Basic,Engaging,Zane Levy,services,Enterprise,Tier 3: $500M-$999M,West,53.5,Medium Priority
+1976N63N,Kinnamplus,GTX Plus Basic,Engaging,Darcel Schlecht,retail,Enterprise,Tier 3: $500M-$999M,Central,52.9,Medium Priority
+S3LATQVJ,Kinnamplus,GTX Plus Basic,Engaging,Versie Hillebrand,retail,Enterprise,Tier 3: $500M-$999M,Central,52.9,Medium Priority
+WOO9JXOQ,Sumace,MG Advanced,Engaging,Gladys Colclough,retail,Medium,Tier 2: $100M-$499M,Central,52.6,Medium Priority
+EFIR7HGR,Groovestreet,MG Advanced,Engaging,Daniell Hammack,retail,Medium,Tier 2: $100M-$499M,East,52.6,Medium Priority
+0R5KAHNB,Umbrella Corporation,MG Advanced,Engaging,Moses Frase,finance,Corporate,Tier 4: $1B-$2.5B,Central,52.6,Medium Priority
+JH643YRI,Umbrella Corporation,MG Advanced,Engaging,Lajuana Vencill,finance,Corporate,Tier 4: $1B-$2.5B,Central,52.6,Medium Priority
+0K59ZLQC,Donquadtech,GTX Basic,Engaging,Corliss Cosme,technology,Enterprise,Tier 4: $1B-$2.5B,East,52.6,Medium Priority
+B3A6VXVQ,Acme Corporation,GTX Basic,Engaging,Corliss Cosme,technology,Enterprise,Tier 4: $1B-$2.5B,East,52.6,Medium Priority
+P0B49XCI,Codehow,MG Special,Prospecting,Gladys Colclough,software,Enterprise,Tier 5: > $2.5B,Central,52.2,Medium Priority
+HSGGBG9J,Codehow,MG Special,Prospecting,Lajuana Vencill,software,Enterprise,Tier 5: > $2.5B,Central,52.2,Medium Priority
+A5SCVK7E,Goodsilron,GTX Plus Pro,Engaging,Corliss Cosme,marketing,Corporate,Tier 5: > $2.5B,East,52.2,Medium Priority
+6VIK2VX8,Isdom,MG Special,Engaging,Hayden Neloms,medical,Enterprise,Tier 5: > $2.5B,West,52.2,Medium Priority
+0XYUJ7HF,Isdom,MG Special,Engaging,Vicki Laflamme,medical,Enterprise,Tier 5: > $2.5B,West,52.2,Medium Priority
+5URQT67R,Treequote,GTK 500,Engaging,Markita Hansen,telecommunications,Corporate,Tier 5: > $2.5B,West,51.9,Medium Priority
+7GDSUY9K,Konmatfix,GTX Plus Pro,Engaging,Hayden Neloms,marketing,Enterprise,Tier 2: $100M-$499M,West,51.7,Medium Priority
+J5IXJWVU,Cancity,MG Advanced,Prospecting,Gladys Colclough,retail,Enterprise,Tier 3: $500M-$999M,Central,51.5,Medium Priority
+3TMNC3GW,Kinnamplus,MG Advanced,Prospecting,Lajuana Vencill,retail,Enterprise,Tier 3: $500M-$999M,Central,51.5,Medium Priority
+JZ4QLP1W,Bioplex,MG Special,Prospecting,Lajuana Vencill,medical,Enterprise,Tier 2: $100M-$499M,Central,51.3,Medium Priority
+ERTQ4SN3,Zumgoity,MG Special,Engaging,Lajuana Vencill,medical,Enterprise,Tier 2: $100M-$499M,Central,51.3,Medium Priority
+DW29KM30,Zathunicon,MG Advanced,Engaging,Elease Gluck,retail,Medium,Tier 1: < $100M,West,51.2,Medium Priority
+T5SX9Z3T,Conecom,GTX Basic,Engaging,Vicki Laflamme,technology,Enterprise,Tier 4: $1B-$2.5B,West,51.0,Medium Priority
+I92EJ805,Bluth Company,GTX Basic,Engaging,Kami Bicknell,technology,Enterprise,Tier 4: $1B-$2.5B,West,51.0,Medium Priority
+PODXJ4SP,Donquadtech,GTX Basic,Engaging,Maureen Marcano,technology,Enterprise,Tier 4: $1B-$2.5B,West,51.0,Medium Priority
+9Z2WTTNY,Statholdings,GTX Plus Basic,Engaging,Darcel Schlecht,employment,Large,Tier 2: $100M-$499M,Central,51.0,Medium Priority
+Q19RWR17,Rundofase,GTX Basic,Engaging,Vicki Laflamme,technology,Enterprise,Tier 4: $1B-$2.5B,West,51.0,Medium Priority
+MGD7DZAU,Globex Corporation,GTX Basic,Engaging,Kami Bicknell,technology,Enterprise,Tier 4: $1B-$2.5B,West,51.0,Medium Priority
+CX0SXNCN,Treequote,GTX Basic,Engaging,Corliss Cosme,telecommunications,Corporate,Tier 5: > $2.5B,East,50.9,Medium Priority
+0KRVN3V5,Hatfan,MG Advanced,Engaging,Anna Snelling,services,Enterprise,Tier 3: $500M-$999M,Central,50.8,Medium Priority
+GIPPUV2F,Nam-zim,GTX Plus Basic,Engaging,Hayden Neloms,services,Enterprise,Tier 2: $100M-$499M,West,50.1,Medium Priority
+T56J7ES7,Nam-zim,GTX Plus Basic,Engaging,Kami Bicknell,services,Enterprise,Tier 2: $100M-$499M,West,50.1,Medium Priority
+TX5SADEI,Dontechi,GTX Plus Basic,Engaging,Niesha Huffines,software,Corporate,Tier 5: > $2.5B,Central,50.0,Medium Priority
+OSG9KZGB,Kan-code,GTX Plus Basic,Engaging,Anna Snelling,software,Corporate,Tier 5: > $2.5B,Central,50.0,Medium Priority
+11V16SZZ,Labdrill,GTX Basic,Engaging,Corliss Cosme,medical,Corporate,Tier 5: > $2.5B,East,49.8,Low Priority
+AW4PSTWR,Ron-tech,GTX Basic,Engaging,Rosie Papadopoulos,medical,Corporate,Tier 5: > $2.5B,East,49.8,Low Priority
+MLD3WEJC,Xx-holding,MG Advanced,Engaging,Moses Frase,finance,Corporate,Tier 5: > $2.5B,Central,49.6,Low Priority
+FUI9BIS3,Funholding,MG Advanced,Engaging,Moses Frase,finance,Corporate,Tier 5: > $2.5B,Central,49.6,Low Priority
+EFKPYBI9,Xx-holding,MG Advanced,Engaging,Gladys Colclough,finance,Corporate,Tier 5: > $2.5B,Central,49.6,Low Priority
+9H2V1F1E,Funholding,MG Advanced,Prospecting,Moses Frase,finance,Corporate,Tier 5: > $2.5B,Central,49.6,Low Priority
+9E8A7MQ8,Blackzim,GTX Plus Pro,Engaging,Kary Hendrixson,retail,Enterprise,Tier 2: $100M-$499M,West,49.4,Low Priority
+NJC4XMEN,Initech,GTX Plus Basic,Engaging,James Ascencio,telecommunications,Corporate,Tier 5: > $2.5B,West,49.3,Low Priority
+FM505XD5,Y-corporation,GTX Plus Pro,Engaging,Daniell Hammack,employment,Corporate,Tier 5: > $2.5B,East,49.0,Low Priority
+SLYFFVBE,Blackzim,GTX Plus Basic,Engaging,Maureen Marcano,retail,Enterprise,Tier 2: $100M-$499M,West,48.6,Low Priority
+GWOOPZE8,Cheers,GTX Plus Basic,Engaging,Cassey Cress,entertainment,Corporate,Tier 5: > $2.5B,East,47.9,Low Priority
+GXIVJQPG,Xx-zobam,GTX Plus Basic,Engaging,Daniell Hammack,entertainment,Corporate,Tier 5: > $2.5B,East,47.9,Low Priority
+I9SPENCQ,Cheers,GTX Plus Basic,Engaging,Violet Mclelland,entertainment,Corporate,Tier 5: > $2.5B,East,47.9,Low Priority
+E887HZT1,Cheers,MG Advanced,Engaging,Rosalina Dieter,entertainment,Corporate,Tier 5: > $2.5B,West,47.9,Low Priority
+R9U1QNHQ,Betasoloin,MG Special,Engaging,Hayden Neloms,medical,Medium,Tier 2: $100M-$499M,West,47.7,Low Priority
+AMNKCM1H,Betasoloin,MG Special,Engaging,Elease Gluck,medical,Medium,Tier 2: $100M-$499M,West,47.7,Low Priority
+EJVD09HQ,Betasoloin,MG Special,Engaging,James Ascencio,medical,Medium,Tier 2: $100M-$499M,West,47.7,Low Priority
+F5I33E1I,Sumace,MG Special,Engaging,Elease Gluck,retail,Medium,Tier 2: $100M-$499M,West,47.1,Low Priority
+95YT659K,Groovestreet,MG Special,Engaging,Zane Levy,retail,Medium,Tier 2: $100M-$499M,West,47.1,Low Priority
+E29GOFUV,Sumace,MG Special,Engaging,Elease Gluck,retail,Medium,Tier 2: $100M-$499M,West,47.1,Low Priority
+5RNWV17L,Golddex,MG Advanced,Engaging,Rosalina Dieter,finance,Medium,Tier 1: < $100M,West,44.8,Low Priority
+A8PVW8RI,Condax,MG Advanced,Prospecting,Marty Freudenburg,medical,Small,Tier 1: < $100M,Central,44.4,Low Priority
+OM8LELJW,Iselectrics,GTX Basic,Engaging,Kary Hendrixson,technology,Enterprise,Tier 3: $500M-$999M,West,44.2,Low Priority
+GK1NH8G7,Iselectrics,GTX Basic,Engaging,Kami Bicknell,technology,Enterprise,Tier 3: $500M-$999M,West,44.2,Low Priority
+ZLN48IIP,Iselectrics,GTX Basic,Engaging,Markita Hansen,technology,Enterprise,Tier 3: $500M-$999M,West,44.2,Low Priority
+YLK0MRJ3,Iselectrics,GTX Basic,Engaging,Kary Hendrixson,technology,Enterprise,Tier 3: $500M-$999M,West,44.2,Low Priority
+HABN7JBG,Rantouch,GTX Basic,Engaging,Elease Gluck,telecommunications,Enterprise,Tier 4: $1B-$2.5B,West,43.7,Low Priority
+4CXUC4VR,Rantouch,GTX Basic,Engaging,Vicki Laflamme,telecommunications,Enterprise,Tier 4: $1B-$2.5B,West,43.7,Low Priority
+5P3NH791,Golddex,MG Advanced,Engaging,Boris Faz,finance,Medium,Tier 1: < $100M,East,43.4,Low Priority
+IMN2GUYV,Statholdings,GTX Basic,Prospecting,Lajuana Vencill,employment,Large,Tier 2: $100M-$499M,Central,42.4,Low Priority
+3372JYYQ,Condax,MG Advanced,Engaging,Cassey Cress,medical,Small,Tier 1: < $100M,East,40.0,Low Priority
+VDIU10RV,Lexiqvolax,MG Special,Engaging,Markita Hansen,medical,Enterprise,Tier 4: $1B-$2.5B,West,39.5,Low Priority
+HAXMC4IX,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+EG7OFLFR,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+OLVI7L8M,,GTXPro,Engaging,Cassey Cress,,,,East,,Unscored
+F5U1ACDD,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+ZZY4516R,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+GYB4W2AU,,MG Advanced,Engaging,Elease Gluck,,,,West,,Unscored
+CNM0H9FR,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+UAE5ZC7O,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+JUCNIG4H,,GTX Basic,Engaging,James Ascencio,,,,West,,Unscored
+ICMXZOVL,Stanredtax,GTXPro,Engaging,Daniell Hammack,finance,Enterprise,Tier 4: $1B-$2.5B,East,,Unscored
+IBEUTCSW,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+O3KC8QI8,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+WALNFJ70,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+MNVMY83P,Plussunin,GTXPro,Engaging,Cassey Cress,retail,Enterprise,Tier 4: $1B-$2.5B,East,,Unscored
+ZOBJHMAF,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+KD6MB4AP,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+A194RP0I,,MG Advanced,Engaging,Rosalina Dieter,,,,West,,Unscored
+KV2OFRJT,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+ERFRHR3Z,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+J32XDDAW,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+1ZDDZD8B,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+PYOFK7ZD,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+DWUXMAGZ,,GTX Plus Pro,Engaging,Corliss Cosme,,,,East,,Unscored
+6SN2RQJX,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+NKPH3EFG,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+3ECHUPQY,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+K5CWSFCW,Blackzim,GTXPro,Engaging,Elease Gluck,retail,Enterprise,Tier 2: $100M-$499M,West,,Unscored
+4H2QMS78,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+SQLYCFGV,Opentech,GTXPro,Engaging,Zane Levy,finance,Large,Tier 2: $100M-$499M,West,,Unscored
+EUG019AS,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+KFPM2LJW,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+C8TV7R8A,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+2VCDVCIZ,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+0U3WVJO0,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+PMMW9JX3,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+2HT2R2GY,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+13GM5I6M,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+9IA34L8S,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+5T8Q2YID,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+TLOHEQ18,,GTX Plus Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+EWDOBEM6,,MG Special,Engaging,Hayden Neloms,,,,West,,Unscored
+QM6VR1H5,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+QR2BDRAI,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+Z75ND4JF,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+CGWJ1WHI,,MG Special,Engaging,Wilburn Farren,,,,East,,Unscored
+M16D8PYH,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+VPXW8RJS,,MG Advanced,Engaging,Kami Bicknell,,,,West,,Unscored
+T7T1YIM7,,GTX Plus Pro,Engaging,Boris Faz,,,,East,,Unscored
+4JHY98UG,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+G39V1X3G,,MG Special,Engaging,Corliss Cosme,,,,East,,Unscored
+6Q67ZUJ1,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+Y6UBZM6P,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+RIW4VWBW,,GTX Plus Pro,Engaging,Hayden Neloms,,,,West,,Unscored
+DWUD4S0P,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+RW39Y63V,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+8LW65NDL,,GTX Plus Pro,Engaging,Violet Mclelland,,,,East,,Unscored
+CJ2ON1LV,Nam-zim,GTXPro,Engaging,Corliss Cosme,services,Enterprise,Tier 2: $100M-$499M,East,,Unscored
+4I8X7EMW,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+VCSHYIU8,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+UQQE9ILV,Iselectrics,GTXPro,Engaging,James Ascencio,technology,Enterprise,Tier 3: $500M-$999M,West,,Unscored
+W8CXDBQN,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+BTUG5VDL,Inity,GTXPro,Engaging,Corliss Cosme,marketing,Corporate,Tier 4: $1B-$2.5B,East,,Unscored
+GR2X90DZ,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+K64TY8LU,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+DZ57QIQN,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+OZ5S8NCK,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+A4JROIDO,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+PMEENWD5,Globex Corporation,GTXPro,Engaging,Corliss Cosme,technology,Enterprise,Tier 4: $1B-$2.5B,East,,Unscored
+Z1WLLL1H,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+ETZKANFZ,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+PK1PS0KR,,MG Advanced,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+RPONINLM,,GTX Plus Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+F569KUVC,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+VYPYVO8V,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+1D54L027,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+4NGSQODD,Blackzim,GTXPro,Engaging,James Ascencio,retail,Enterprise,Tier 2: $100M-$499M,West,,Unscored
+5BE27MLY,,GTXPro,Engaging,Maureen Marcano,,,,West,,Unscored
+KBR253C0,,MG Advanced,Engaging,Kami Bicknell,,,,West,,Unscored
+379DUF2N,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+67IKZGGJ,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+8YIANRVX,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+A7SA2L21,,GTK 500,Engaging,Elease Gluck,,,,West,,Unscored
+9W7PFSNX,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+GVBWTDI3,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+VFEV5XBS,,GTX Plus Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+VN8LKQN3,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+ZHY9C8OO,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+OCGXWE8H,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+HZIU2NOT,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+P9PFSLS6,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+E4THD359,,GTX Basic,Engaging,Wilburn Farren,,,,East,,Unscored
+30R81VZX,Zoomit,GTXPro,Engaging,Kami Bicknell,entertainment,Large,Tier 2: $100M-$499M,West,,Unscored
+TH9RV79M,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+7VOW7BUJ,,GTXPro,Engaging,Cassey Cress,,,,East,,Unscored
+2J5E145N,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+YFB7Y92U,,GTK 500,Engaging,Elease Gluck,,,,West,,Unscored
+B5A1BERF,Umbrella Corporation,GTXPro,Engaging,Kami Bicknell,finance,Corporate,Tier 4: $1B-$2.5B,West,,Unscored
+IEAPJ5X1,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+L2S4T3VA,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+IVJP36UT,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+TF19VML9,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+ZHXIDZNI,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+5BXUKFPR,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+8AJG1YLJ,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+LXM6CTMS,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+CGJ7NRZH,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+B06D1F9M,Faxquote,GTXPro,Engaging,Vicki Laflamme,telecommunications,Corporate,Tier 4: $1B-$2.5B,West,,Unscored
+OZ761BUJ,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+W24IDMVV,,GTX Plus Pro,Engaging,Corliss Cosme,,,,East,,Unscored
+JQA8H6M5,,GTX Plus Pro,Engaging,Kami Bicknell,,,,West,,Unscored
+92G1TO7L,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+FW2XJG9S,,GTX Plus Basic,Engaging,Markita Hansen,,,,West,,Unscored
+SVCKI631,,GTX Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+VJ5QGP8Z,,MG Advanced,Engaging,Maureen Marcano,,,,West,,Unscored
+R2W96FGX,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+KM1D04JS,,GTX Plus Basic,Engaging,James Ascencio,,,,West,,Unscored
+INBGKE14,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+5KK2SSSB,,GTX Basic,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+V3HVIJLL,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+84LN84VM,,MG Advanced,Engaging,Vicki Laflamme,,,,West,,Unscored
+MU7JWTP6,,MG Special,Engaging,Cassey Cress,,,,East,,Unscored
+9HRMW8SL,,MG Special,Engaging,Daniell Hammack,,,,East,,Unscored
+1WHXI2RW,,GTX Plus Basic,Engaging,Markita Hansen,,,,West,,Unscored
+G5JP0G7Q,,MG Advanced,Engaging,Markita Hansen,,,,West,,Unscored
+RVH3UUKY,,MG Advanced,Engaging,Vicki Laflamme,,,,West,,Unscored
+CG9VXPV1,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+Y7N97FW8,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+0IO43YMS,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+6HG76L6U,,GTXPro,Engaging,Boris Faz,,,,East,,Unscored
+1GIP77EP,,GTX Plus Pro,Engaging,Maureen Marcano,,,,West,,Unscored
+NOLCZMV6,Goodsilron,GTXPro,Engaging,Violet Mclelland,marketing,Corporate,Tier 5: > $2.5B,East,,Unscored
+ESZY10SI,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+Y3CYQGPH,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+6PW6ZQEE,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+4E5A84H1,,MG Advanced,Engaging,Kami Bicknell,,,,West,,Unscored
+03VCDZEE,,GTXPro,Engaging,Maureen Marcano,,,,West,,Unscored
+7ONH55WT,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+CMKXOOJQ,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+NR947OAB,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+LMKNU8IZ,,GTXPro,Engaging,Markita Hansen,,,,West,,Unscored
+R5RSH4JV,,GTX Plus Pro,Engaging,Boris Faz,,,,East,,Unscored
+X1D1HYMM,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+GVYF29NM,,MG Advanced,Engaging,Violet Mclelland,,,,East,,Unscored
+DN6SG3US,,GTX Plus Pro,Engaging,Wilburn Farren,,,,East,,Unscored
+EW28ZONV,,GTX Plus Basic,Engaging,Zane Levy,,,,West,,Unscored
+HVZMZW96,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+1H1YDS7C,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+UI3DE2C4,,GTX Plus Basic,Engaging,Zane Levy,,,,West,,Unscored
+9X2S0K15,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+XRZVJPD5,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+QDGUWTLU,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+JSZZN48S,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+KVR52YDI,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+XRDF1NAB,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+WUNMIJW9,,MG Advanced,Engaging,Elease Gluck,,,,West,,Unscored
+4V9NMGEA,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+79EHWR35,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+L0GMLGRR,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+D3ZC338T,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+QRQ8C6MQ,Globex Corporation,GTXPro,Engaging,Cassey Cress,technology,Enterprise,Tier 4: $1B-$2.5B,East,,Unscored
+ZG8WPG99,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+U7M26UZV,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+TV300INP,,GTX Plus Pro,Engaging,Wilburn Farren,,,,East,,Unscored
+KBQ16F1I,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+FYN7C0CV,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+5JDWBOLS,,GTX Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+7TI1WTV9,Acme Corporation,GTXPro,Engaging,Zane Levy,technology,Enterprise,Tier 4: $1B-$2.5B,West,,Unscored
+01EH41WA,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+71GQNH5T,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+LSA39JBG,,GTX Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+AKTPC3M1,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+5Z8S8UHK,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+NMKAJZJ4,,MG Special,Engaging,Kary Hendrixson,,,,West,,Unscored
+SX0SSL0H,,GTX Plus Basic,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+6F79VYH8,,GTX Basic,Engaging,Boris Faz,,,,East,,Unscored
+ZQ4QTT1Z,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+9A4H9IAC,,GTX Plus Basic,Engaging,James Ascencio,,,,West,,Unscored
+81FNO0VM,,GTX Plus Basic,Engaging,Wilburn Farren,,,,East,,Unscored
+RFQP9VCW,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+NGCM47PC,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+T1F2I8ED,,GTX Plus Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+ISAWVDYZ,,GTX Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+ZRYPU2QW,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+0A1LN7GB,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+1B27CZ2M,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+839AMI93,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+BFGASJAW,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+ILR33OAV,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+BY2L60V1,,MG Special,Engaging,Zane Levy,,,,West,,Unscored
+QHJ3W8FW,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+Y28VHZKQ,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+4IT33RBO,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+7VKQWIXD,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+V74O6XQT,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+MRCYKUX4,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+MN6E59H6,,GTX Plus Pro,Engaging,Markita Hansen,,,,West,,Unscored
+7PXJ92C5,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+4XZ4RY1N,,GTX Plus Basic,Engaging,Wilburn Farren,,,,East,,Unscored
+Z0RLNFVY,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+RQULJHTU,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+WFCEPHD3,,GTXPro,Engaging,Markita Hansen,,,,West,,Unscored
+AF7XJNED,,GTX Plus Pro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+EJDHOY6M,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+IBS3H6Z4,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+04YGLJ3N,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+1GT10YJD,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+4UZCVHEV,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+DJH67UIZ,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+7VGJ2B7O,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+H2IOHZ8R,,GTX Basic,Engaging,James Ascencio,,,,West,,Unscored
+I7MDOGGU,,GTX Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+10IY4PV4,,MG Advanced,Engaging,Rosalina Dieter,,,,West,,Unscored
+2JY9SQ2L,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+RACLHBXN,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+THKCN7HU,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+PD2198ZH,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+K72CEXGZ,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+5C8HCDXT,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+9FPDDSIJ,,GTXPro,Engaging,Cassey Cress,,,,East,,Unscored
+4RDJBBB6,,MG Special,Engaging,Daniell Hammack,,,,East,,Unscored
+3JUL12VK,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+9Y85N0W5,,MG Advanced,Engaging,Markita Hansen,,,,West,,Unscored
+8GE7FY98,,GTXPro,Engaging,Violet Mclelland,,,,East,,Unscored
+4U9D1IZ5,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+ODGKZEVV,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+M41NS5DN,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+GEJLL5L3,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+KMB8TJ0I,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+CR6ZLEWC,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+YB20NWM1,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+43LFUTVM,,GTX Plus Pro,Engaging,Zane Levy,,,,West,,Unscored
+CMS1HUGL,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+6R6S91WE,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+3T64Z7DB,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+3F2ZPCSL,,GTX Plus Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+XFB1VXQY,,MG Advanced,Engaging,Maureen Marcano,,,,West,,Unscored
+J6OQS0AU,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+97PFKCPG,,GTXPro,Engaging,James Ascencio,,,,West,,Unscored
+FB9M4FR7,,MG Special,Engaging,James Ascencio,,,,West,,Unscored
+BXK5HGEY,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+XXUGTDX7,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+LWXHKI88,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+I6U62W0R,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+EB89ONZN,Funholding,GTXPro,Engaging,Kary Hendrixson,finance,Corporate,Tier 5: > $2.5B,West,,Unscored
+2VDN72EP,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+WW1WV7IT,Cancity,GTXPro,Engaging,Cassey Cress,retail,Enterprise,Tier 3: $500M-$999M,East,,Unscored
+LIQZNH9U,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+P9LE92UR,,MG Special,Engaging,Kary Hendrixson,,,,West,,Unscored
+DOGKQHQP,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+G3SJ8X1K,,MG Advanced,Engaging,Violet Mclelland,,,,East,,Unscored
+JW4Q5F4Z,,MG Special,Engaging,Cassey Cress,,,,East,,Unscored
+KKRJ6TBY,Scotfind,GTXPro,Engaging,Daniell Hammack,software,Corporate,Tier 5: > $2.5B,East,,Unscored
+MIY4MF3R,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+20CVXRTX,Kinnamplus,GTXPro,Engaging,Vicki Laflamme,retail,Enterprise,Tier 3: $500M-$999M,West,,Unscored
+VK9KN5PT,,MG Advanced,Engaging,Boris Faz,,,,East,,Unscored
+DQ7GS2BN,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+D5VY17OP,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+BED55OSG,,GTXPro,Engaging,Markita Hansen,,,,West,,Unscored
+H5VBBEVI,,GTX Plus Basic,Engaging,Cassey Cress,,,,East,,Unscored
+MB7G8DWS,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+2HS1C21I,,GTXPro,Engaging,Elease Gluck,,,,West,,Unscored
+Q2BB73WT,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+HVT28XPH,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+VM0MHPAO,,MG Special,Engaging,Wilburn Farren,,,,East,,Unscored
+LXZD2PZD,,GTX Plus Pro,Engaging,Corliss Cosme,,,,East,,Unscored
+BPOTQCFG,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+XM4VD3NN,,GTX Plus Basic,Engaging,Markita Hansen,,,,West,,Unscored
+D62905BC,,GTX Plus Pro,Engaging,Maureen Marcano,,,,West,,Unscored
+9ILB20UV,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+PNO7D8PD,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+2GV66JA7,,MG Advanced,Engaging,Daniell Hammack,,,,East,,Unscored
+AKMV6WN5,,GTK 500,Engaging,Elease Gluck,,,,West,,Unscored
+HPIKEMB9,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+U0E0XHK9,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+8254HM4E,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+QCNOCX0P,,GTXPro,Engaging,Boris Faz,,,,East,,Unscored
+M9V8824W,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+UUGY3W44,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+BHHDOY2E,,MG Advanced,Engaging,Kary Hendrixson,,,,West,,Unscored
+XDECB9X2,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+GL95LARP,,GTXPro,Engaging,Cassey Cress,,,,East,,Unscored
+J6F10SFK,,MG Advanced,Engaging,Markita Hansen,,,,West,,Unscored
+U4IJO6SL,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+PVLGUIEN,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+45B6VA2Y,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+XQ0N9T87,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+456BP2X7,,MG Advanced,Engaging,Zane Levy,,,,West,,Unscored
+J58BUYQH,,GTX Plus Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+FN1QX0BQ,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+R0CLLIH9,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+3P7QQSVF,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+Z7OH4GWO,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+81G840FM,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+U5K2MZB6,,MG Advanced,Engaging,Zane Levy,,,,West,,Unscored
+ZVAZKWF3,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+6S2ABHZS,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+COM9RNBL,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+K6M3EX4O,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+LWPFQ1UA,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+10AEGW41,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+6G6ZCKSB,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+GACPNKGI,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+E4082SMQ,,GTX Basic,Engaging,James Ascencio,,,,West,,Unscored
+LSVGDJ1A,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+2LSNRT4U,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+QD8F0CI6,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+7K0S2P6K,,GTXPro,Engaging,Rosalina Dieter,,,,West,,Unscored
+U6XJRWV8,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+K8LRZ95S,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+Q8BZ3PC9,,GTX Plus Pro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+49ZS7GTS,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+M857G6G1,,MG Advanced,Engaging,Vicki Laflamme,,,,West,,Unscored
+5K0ZFCVO,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+6AEVX11M,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+WGETO859,,GTX Basic,Engaging,Boris Faz,,,,East,,Unscored
+CTWSDG4U,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+0EYXI1UN,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+XOVYPE58,Betasoloin,GTXPro,Engaging,Rosie Papadopoulos,medical,Medium,Tier 2: $100M-$499M,East,,Unscored
+C32E4E1D,,MG Special,Engaging,Kami Bicknell,,,,West,,Unscored
+U2HYH97X,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+MRWHJE9P,,GTX Plus Basic,Engaging,Cassey Cress,,,,East,,Unscored
+Q6OUJCH5,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+IIVP87B8,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+4QFATB6J,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+61E7IHAY,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+KTC0RC8I,,MG Special,Engaging,James Ascencio,,,,West,,Unscored
+CY7C3ZPJ,,MG Advanced,Engaging,Markita Hansen,,,,West,,Unscored
+M9GP930T,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+NMY6FA6X,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+NUQPJV8A,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+VY4IVO2W,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+INKH0Y59,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+OSMGVV1S,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+BDUNPUWY,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+HDALWEHF,,GTXPro,Engaging,Cassey Cress,,,,East,,Unscored
+OTJR9SSK,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+GQ2W1DXM,,GTXPro,Engaging,Maureen Marcano,,,,West,,Unscored
+CEEJ2EN5,,GTX Plus Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+JNEQWZQK,,GTX Basic,Engaging,Wilburn Farren,,,,East,,Unscored
+RXAQJKSL,,GTX Plus Pro,Engaging,Corliss Cosme,,,,East,,Unscored
+IGRY0M4Q,,MG Advanced,Engaging,Daniell Hammack,,,,East,,Unscored
+9HYMQL4I,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+0KEO3OP7,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+7882RJGY,,MG Special,Engaging,Wilburn Farren,,,,East,,Unscored
+VP8ERXPR,,MG Special,Engaging,Cassey Cress,,,,East,,Unscored
+UEZOR630,,GTX Basic,Engaging,Elease Gluck,,,,West,,Unscored
+DYNHHN6P,Massive Dynamic,GTXPro,Engaging,Maureen Marcano,entertainment,Enterprise,Tier 3: $500M-$999M,West,,Unscored
+ZH14SZPT,,GTX Plus Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+Q2CLAKLM,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+OTLQMB5X,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+OIO2H2MY,,GTX Plus Pro,Engaging,Boris Faz,,,,East,,Unscored
+5WHMLQDK,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+R1K16RZO,,GTX Plus Pro,Engaging,Maureen Marcano,,,,West,,Unscored
+UYQJ2A1O,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+60NIT1PM,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+44Y3J17P,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+J9OP2A5I,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+8WB5HXOB,,GTX Plus Pro,Engaging,Zane Levy,,,,West,,Unscored
+4ZX1WPS7,Inity,GTXPro,Engaging,Cassey Cress,marketing,Corporate,Tier 4: $1B-$2.5B,East,,Unscored
+86C26QSR,,GTX Plus Pro,Engaging,Markita Hansen,,,,West,,Unscored
+UJ7BYO6A,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+WQSJNIEZ,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+J71N4WQ6,,GTX Plus Basic,Engaging,Markita Hansen,,,,West,,Unscored
+3F34LWKM,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+YVXKNYSM,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+73086D08,,GTX Plus Pro,Engaging,Markita Hansen,,,,West,,Unscored
+OIFERO7S,,MG Advanced,Engaging,Rosalina Dieter,,,,West,,Unscored
+Z2E1UVVB,,MG Advanced,Engaging,Violet Mclelland,,,,East,,Unscored
+0AQGBN7B,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+UU25XD9E,Hatfan,GTXPro,Engaging,Zane Levy,services,Enterprise,Tier 3: $500M-$999M,West,,Unscored
+K5GFWLKM,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+1K6HY455,,MG Advanced,Engaging,Boris Faz,,,,East,,Unscored
+GL1YE4PQ,,GTK 500,Engaging,Markita Hansen,,,,West,,Unscored
+FHWXZ6HL,,GTXPro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+Q2RY668B,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+VBFYOCDO,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+KF05URX0,,MG Special,Engaging,Corliss Cosme,,,,East,,Unscored
+5IQAJGCU,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+E8QHX9TE,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+I6UG2OLX,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+BJO24Z5A,,GTX Plus Basic,Engaging,Cassey Cress,,,,East,,Unscored
+HY94AVIW,,GTX Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+848QSODT,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+89P5UVQ0,,GTXPro,Engaging,Wilburn Farren,,,,East,,Unscored
+7YT7NRV9,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+X4FW4JR1,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+XAC1J3TF,,MG Advanced,Engaging,Rosalina Dieter,,,,West,,Unscored
+ZIK2R3S7,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+HF2DSIT5,,GTX Basic,Engaging,Elease Gluck,,,,West,,Unscored
+M3IMVC9G,,GTX Plus Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+BTRIUUWG,,GTX Basic,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+XRO7PMA2,,GTX Plus Basic,Engaging,Cassey Cress,,,,East,,Unscored
+04OAV3CV,,GTX Plus Pro,Engaging,Elease Gluck,,,,West,,Unscored
+3SEMPUU1,Labdrill,GTXPro,Engaging,Markita Hansen,medical,Corporate,Tier 5: > $2.5B,West,,Unscored
+2FMT1053,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+D85PDC6S,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+N3GVE0VP,,GTK 500,Engaging,Markita Hansen,,,,West,,Unscored
+OK39IHP1,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+CX4ZLSDW,,MG Special,Engaging,Wilburn Farren,,,,East,,Unscored
+UFL6ZQDV,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+BRFHWGVC,,GTX Plus Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+8Z4ZMS9U,,MG Advanced,Engaging,Violet Mclelland,,,,East,,Unscored
+JL9ERNVY,,GTX Plus Pro,Engaging,Boris Faz,,,,East,,Unscored
+JM5GDLEF,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+RE3UNESR,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+PPUSV3RG,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+6I125KPN,,MG Advanced,Engaging,Daniell Hammack,,,,East,,Unscored
+2YLXKON1,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+WS3BIQ4S,,GTX Plus Pro,Engaging,Markita Hansen,,,,West,,Unscored
+U177IWW0,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+SWEQFKRF,,GTXPro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+HYSOZRCG,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+41RF80KQ,,GTX Plus Pro,Engaging,Boris Faz,,,,East,,Unscored
+CYB0NUCJ,,MG Special,Engaging,Cassey Cress,,,,East,,Unscored
+3IWUUUCN,,GTXPro,Engaging,Elease Gluck,,,,West,,Unscored
+K7TV5UBZ,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+6BIZ2MB6,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+Y2EC6KYG,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+2PI827MA,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+7AXR8U55,,MG Advanced,Engaging,Boris Faz,,,,East,,Unscored
+7X0T2QOL,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+7KKFQ7LX,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+3ATYY665,Conecom,GTXPro,Engaging,Kami Bicknell,technology,Enterprise,Tier 4: $1B-$2.5B,West,,Unscored
+G1L2YY5P,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+DC2JL47C,Dontechi,GTXPro,Engaging,Daniell Hammack,software,Corporate,Tier 5: > $2.5B,East,,Unscored
+GMN9KQN2,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+VXTVHC1Z,,GTX Plus Pro,Engaging,Boris Faz,,,,East,,Unscored
+OERROEPM,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+MWSPTOQK,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+RY6T3GLC,Zathunicon,GTXPro,Engaging,Corliss Cosme,retail,Medium,Tier 1: < $100M,East,,Unscored
+8G3HB5S6,,GTX Basic,Engaging,James Ascencio,,,,West,,Unscored
+EUYJDW9C,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+YRTI0EKE,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+UMXZFLO8,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+QNVW1NSS,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+HTBPSC2D,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+SIBR2J01,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+UGTXH980,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+ZTVWSE98,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+SPV7OJTH,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+N7G1TU1X,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+CUV49MUR,Zathunicon,GTXPro,Engaging,Violet Mclelland,retail,Medium,Tier 1: < $100M,East,,Unscored
+7VMOJBPN,Faxquote,GTXPro,Engaging,Kami Bicknell,telecommunications,Corporate,Tier 4: $1B-$2.5B,West,,Unscored
+F8QQEW1W,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+4LXUITP3,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+GXC8JN36,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+PIFPDJMN,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+7J0ZLDB1,,MG Special,Engaging,Zane Levy,,,,West,,Unscored
+XQY4Z4KI,,MG Special,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+9GYIYGHW,,MG Advanced,Engaging,Violet Mclelland,,,,East,,Unscored
+RKVXBXBM,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+C6TQMD3C,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+IQMW1VDP,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+G1AKE0NR,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+S2J63YRV,,MG Special,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+D17T8PTH,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+FHM7LYZ3,,MG Special,Engaging,Corliss Cosme,,,,East,,Unscored
+LC2RIMSX,Vehement Capital Partners,GTXPro,Engaging,Rosalina Dieter,finance,Large,Tier 3: $500M-$999M,West,,Unscored
+RUAU1ORD,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+477HSG28,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+YT34YUZN,Betasoloin,GTXPro,Engaging,Corliss Cosme,medical,Medium,Tier 2: $100M-$499M,East,,Unscored
+MCA0202R,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+3A7G5K0E,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+WWCMITY9,Funholding,GTXPro,Engaging,Rosalina Dieter,finance,Corporate,Tier 5: > $2.5B,West,,Unscored
+TNWCER5C,,GTX Plus Basic,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+WTAM4BED,,MG Special,Engaging,Cassey Cress,,,,East,,Unscored
+7HSRDCCK,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+C7ODMOS2,,MG Advanced,Engaging,Zane Levy,,,,West,,Unscored
+JS5N8USN,,GTX Plus Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+3VC45PML,,GTX Basic,Engaging,James Ascencio,,,,West,,Unscored
+YX4E972E,Conecom,GTXPro,Engaging,Markita Hansen,technology,Enterprise,Tier 4: $1B-$2.5B,West,,Unscored
+ZU3GICE9,,GTX Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+OXNWRI4I,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+HKV37WU9,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+YXXWQA4G,,MG Advanced,Engaging,Zane Levy,,,,West,,Unscored
+PFKDTEYU,Xx-zobam,GTXPro,Engaging,Rosie Papadopoulos,entertainment,Corporate,Tier 5: > $2.5B,East,,Unscored
+3C5GNT3Q,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+0LRVHITK,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+2O76H591,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+KSOW4MUK,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+FHYD80FB,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+1ORXGKVH,Sonron,GTXPro,Engaging,Kary Hendrixson,telecommunications,Corporate,Tier 4: $1B-$2.5B,West,,Unscored
+EGEJA2HY,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+TIPG6R0Z,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+HEWKNHTH,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+XU836DFA,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+961ED0B1,,GTX Plus Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+LLQCQOCR,,GTX Plus Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+54OH0061,,GTXPro,Engaging,Maureen Marcano,,,,West,,Unscored
+PCVNB0NO,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+RUFJMV3I,,MG Special,Engaging,James Ascencio,,,,West,,Unscored
+KDPBAHOJ,,MG Advanced,Engaging,Kami Bicknell,,,,West,,Unscored
+96798U7Y,,GTXPro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+B6Z5NFV0,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+VH6OFWCV,,MG Advanced,Engaging,Zane Levy,,,,West,,Unscored
+BJO4VYLK,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+14CNQKX8,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+VHZFABAC,,MG Special,Engaging,Daniell Hammack,,,,East,,Unscored
+10THTNLC,,GTX Plus Basic,Engaging,Zane Levy,,,,West,,Unscored
+QU6CFZ22,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+O9WYT5ST,Kan-code,GTXPro,Engaging,Zane Levy,software,Corporate,Tier 5: > $2.5B,West,,Unscored
+EBLSL27F,,GTX Plus Pro,Engaging,Boris Faz,,,,East,,Unscored
+13FIM9V3,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+74KGIZW4,Betasoloin,GTXPro,Engaging,Kary Hendrixson,medical,Medium,Tier 2: $100M-$499M,West,,Unscored
+HSYU33MS,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+Z6R4KJFU,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+24REVMX7,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+2FNTCPOU,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+A8QRKXG3,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+S2SC8AP7,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+ZT52DT8H,,MG Advanced,Engaging,Daniell Hammack,,,,East,,Unscored
+ND0OV6MQ,,GTX Plus Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+23NAJF9W,Plussunin,GTXPro,Engaging,Zane Levy,retail,Enterprise,Tier 4: $1B-$2.5B,West,,Unscored
+HTF7TYQS,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+R443AUAG,,GTXPro,Engaging,Violet Mclelland,,,,East,,Unscored
+V71FMJBD,,MG Advanced,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+ZD1X3R4G,,GTX Plus Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+EMUG64GW,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+XYRO1TLJ,,GTXPro,Engaging,Markita Hansen,,,,West,,Unscored
+T4FR3FAC,,MG Advanced,Engaging,Vicki Laflamme,,,,West,,Unscored
+BMH2FEGF,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+3T23AW36,,GTX Plus Basic,Engaging,James Ascencio,,,,West,,Unscored
+FOJG3OCO,,GTX Plus Pro,Engaging,Corliss Cosme,,,,East,,Unscored
+04SCU6DK,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+AR33M33M,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+VSYO182N,Dalttechnology,GTXPro,Engaging,Kary Hendrixson,software,Small,Tier 1: < $100M,West,,Unscored
+BCA6Y34B,,MG Advanced,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+H9N9DP3D,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+WQAKXOYU,,GTXPro,Engaging,Boris Faz,,,,East,,Unscored
+HAUB1NBF,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+HLDA8IA1,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+4EGO7VCJ,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+35LLMROC,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+W07RZO17,,MG Advanced,Engaging,Kary Hendrixson,,,,West,,Unscored
+UGB3A3CE,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+AWORM94L,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+SXYJU7LC,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+BRFZCNMP,,GTX Plus Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+E2KGQVEO,,MG Advanced,Engaging,Daniell Hammack,,,,East,,Unscored
+81PWOUF0,,GTXPro,Engaging,Maureen Marcano,,,,West,,Unscored
+CFI2GXN1,,GTXPro,Engaging,Boris Faz,,,,East,,Unscored
+YYTZSTL0,,GTX Plus Pro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+ORM1IRQ2,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+QKXCMJVB,,GTX Basic,Engaging,James Ascencio,,,,West,,Unscored
+0D37PQA0,,GTX Plus Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+NK1B8YME,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+OT26ZUZ7,Betatech,GTXPro,Engaging,Daniell Hammack,medical,Enterprise,Tier 3: $500M-$999M,East,,Unscored
+HI9S2MRZ,,GTX Plus Basic,Engaging,Elease Gluck,,,,West,,Unscored
+6AO6E15O,Statholdings,GTXPro,Engaging,Rosalina Dieter,employment,Large,Tier 2: $100M-$499M,West,,Unscored
+OW9OM3UO,,MG Advanced,Engaging,Rosalina Dieter,,,,West,,Unscored
+CQYAMIQ3,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+QV3TAWDT,,GTXPro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+USJWM3F3,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+0T9KUEQ2,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+JB3J080M,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+21OMR381,,MG Special,Engaging,Corliss Cosme,,,,East,,Unscored
+R0XNAFUB,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+4LOHS2AJ,,MG Special,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+8JH8YA79,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+8BYEALF9,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+YVDQ80A0,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+CI9S6CST,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+M2A8EY5Q,,GTX Plus Pro,Engaging,Hayden Neloms,,,,West,,Unscored
+EJDRMHNC,,MG Special,Engaging,Boris Faz,,,,East,,Unscored
+O8C2G4G2,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+HBN3R2TJ,,MG Advanced,Engaging,Elease Gluck,,,,West,,Unscored
+O28I4VDY,,GTX Plus Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+XRWMLGOG,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+MIXJ9F4F,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+39EYEBMK,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+LAYVBSH4,,GTX Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+8D8JOXP6,,MG Special,Engaging,Cecily Lampkin,,,,Central,,Unscored
+IPHP2GVT,,MG Special,Engaging,Cecily Lampkin,,,,Central,,Unscored
+X8M3SCVF,,GTX Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+NU4ACGMY,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+CCLIVXMG,,GTXPro,Engaging,Elease Gluck,,,,West,,Unscored
+PQOHTS9I,Inity,GTXPro,Engaging,Jonathan Berthelot,marketing,Corporate,Tier 4: $1B-$2.5B,Central,,Unscored
+HIVUC1C4,,MG Special,Engaging,Lajuana Vencill,,,,Central,,Unscored
+7LD79NYD,,MG Advanced,Engaging,Marty Freudenburg,,,,Central,,Unscored
+BKOWQMMV,,GTX Basic,Engaging,Moses Frase,,,,Central,,Unscored
+IQFDPIND,,GTX Basic,Engaging,Versie Hillebrand,,,,Central,,Unscored
+JHCA115A,Green-Plus,GTXPro,Engaging,Vicki Laflamme,services,Enterprise,Tier 3: $500M-$999M,West,,Unscored
+ZGFB0IF1,,GTX Plus Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+1R2CLEGQ,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+NSO0UHK1,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+LHBWJAD3,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+KRWKDPWW,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+6V7FT2YU,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+90G292UY,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+JDHHDOX8,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+KTWP0SMT,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+CDVDL9I5,,GTX Plus Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+PJ75Q8VM,,GTXPro,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+0NSRB3EO,,MG Special,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+7439NGIG,Sumace,GTXPro,Engaging,Marty Freudenburg,retail,Medium,Tier 2: $100M-$499M,Central,,Unscored
+3JW6CZ7K,,GTX Basic,Engaging,Moses Frase,,,,Central,,Unscored
+AERVH1AC,,GTX Plus Basic,Engaging,Niesha Huffines,,,,Central,,Unscored
+S50ETCN7,,GTX Plus Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+UJ58VMZT,,GTX Plus Basic,Engaging,Cecily Lampkin,,,,Central,,Unscored
+E8GD44YC,,GTX Plus Basic,Engaging,Cecily Lampkin,,,,Central,,Unscored
+A3T91VUM,,MG Special,Engaging,Cecily Lampkin,,,,Central,,Unscored
+S6YZO6UQ,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+PI45UJKA,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+0HVUV9OY,,GTX Basic,Engaging,Gladys Colclough,,,,Central,,Unscored
+COSC7XVA,,MG Advanced,Engaging,Gladys Colclough,,,,Central,,Unscored
+02K37JAK,,GTX Plus Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+6F5TIV66,,GTX Plus Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+HTEAOHFO,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+VJ9K12PY,,MG Special,Engaging,Lajuana Vencill,,,,Central,,Unscored
+ETLF2H4K,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+XVB2CGL6,,GTXPro,Engaging,Maureen Marcano,,,,West,,Unscored
+GE4QGOCI,,MG Special,Engaging,Moses Frase,,,,Central,,Unscored
+3YDXZ4FA,,GTX Plus Pro,Engaging,Versie Hillebrand,,,,Central,,Unscored
+R69OYH4Z,Umbrella Corporation,GTXPro,Engaging,Vicki Laflamme,finance,Corporate,Tier 4: $1B-$2.5B,West,,Unscored
+S0Z4QVL2,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+REAFB3C3,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+0Z8ZAS2M,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+VRCYXSP1,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+QRR70537,,GTX Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+T4AW06MM,,GTX Plus Pro,Engaging,Anna Snelling,,,,Central,,Unscored
+3DATPTEH,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+FT5U6NIG,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+RQF6II3D,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+E9J482PX,,MG Advanced,Engaging,Anna Snelling,,,,Central,,Unscored
+8QDSXHQ8,,GTX Basic,Engaging,Cecily Lampkin,,,,Central,,Unscored
+5DQZSOBE,,GTX Plus Basic,Engaging,Cecily Lampkin,,,,Central,,Unscored
+TQQDICC6,,GTX Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+P66UXGPS,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+FY5MBCWQ,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+UAX2OR58,,MG Special,Engaging,Darcel Schlecht,,,,Central,,Unscored
+YBY3PA1S,,GTX Basic,Engaging,Gladys Colclough,,,,Central,,Unscored
+XNHTLVT1,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+E26Z10W7,,MG Special,Engaging,James Ascencio,,,,West,,Unscored
+ZTQD4PLQ,,GTX Plus Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+2CZUU9E0,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+I2ESAAIK,,GTX Plus Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+IMLG35AP,,GTX Plus Pro,Engaging,Lajuana Vencill,,,,Central,,Unscored
+0T2CY70E,,MG Advanced,Engaging,Lajuana Vencill,,,,Central,,Unscored
+UJTU7DUB,,MG Special,Engaging,Moses Frase,,,,Central,,Unscored
+JOLNKYNH,,MG Advanced,Engaging,Moses Frase,,,,Central,,Unscored
+TV2M081C,,MG Advanced,Engaging,Moses Frase,,,,Central,,Unscored
+SJGOQMLT,,MG Advanced,Engaging,Moses Frase,,,,Central,,Unscored
+MM79TSUR,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+INLVV78V,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+4JTH72JR,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+TTKPNDTP,,MG Advanced,Engaging,Versie Hillebrand,,,,Central,,Unscored
+J732416R,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+IAUXJ05J,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+G7H64S20,,MG Advanced,Engaging,Anna Snelling,,,,Central,,Unscored
+9Q7NSPTF,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+ZRCQXB38,,GTX Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+EJJCUJ3P,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+ODFL6HOF,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+Q1HNDPKW,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+6GG9CSTV,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+5WSQ6D2E,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+K6MTPSB5,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+D2QPN9LN,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+EYBMEX1Z,,GTX Basic,Engaging,Moses Frase,,,,Central,,Unscored
+LXS3Z82E,,MG Advanced,Engaging,Niesha Huffines,,,,Central,,Unscored
+P3Z2LYCL,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+MIGDLH14,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+513PSPBN,,GTX Plus Pro,Engaging,Anna Snelling,,,,Central,,Unscored
+11LIZUQE,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+0TC6I9SJ,Dontechi,GTXPro,Engaging,Darcel Schlecht,software,Corporate,Tier 5: > $2.5B,Central,,Unscored
+WGFTBY3W,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+NCCB118E,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+WSQHC199,,MG Special,Engaging,Darcel Schlecht,,,,Central,,Unscored
+VV6T07G4,,MG Advanced,Engaging,Darcel Schlecht,,,,Central,,Unscored
+7OZ7L8BB,,GTX Basic,Engaging,Gladys Colclough,,,,Central,,Unscored
+QGXJLNK1,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+E3Z74U5K,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+Q3HHDSDS,,GTX Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+0S6OQ9AO,,GTX Plus Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+7AFBJFP5,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+H2FCUPHJ,,GTXPro,Engaging,Niesha Huffines,,,,Central,,Unscored
+8Y4LJOJ0,,GTX Plus Basic,Engaging,Versie Hillebrand,,,,Central,,Unscored
+Z7EBMMAE,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+KT4OEP4X,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+ODHVHXKS,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+VVO21D4Z,,GTX Basic,Engaging,Cecily Lampkin,,,,Central,,Unscored
+APIB681L,,GTX Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+TFSKOBH7,,GTX Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+LUTZ8UQM,Isdom,GTXPro,Engaging,Darcel Schlecht,medical,Enterprise,Tier 5: > $2.5B,Central,,Unscored
+1QKDD1OI,Isdom,GTXPro,Engaging,Darcel Schlecht,medical,Enterprise,Tier 5: > $2.5B,Central,,Unscored
+2GFL3TAF,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+CUSWE9PB,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+XFCKQ7RI,,MG Advanced,Engaging,Darcel Schlecht,,,,Central,,Unscored
+PQL5GITI,,GTX Basic,Engaging,Gladys Colclough,,,,Central,,Unscored
+8AK3KGFA,,MG Advanced,Engaging,Gladys Colclough,,,,Central,,Unscored
+7F2DDW3C,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+BEDNZXVE,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+CGFLLZZI,,MG Special,Engaging,Kary Hendrixson,,,,West,,Unscored
+YCQTM2BQ,,MG Advanced,Engaging,Lajuana Vencill,,,,Central,,Unscored
+RV5Y8DRY,,GTX Plus Pro,Engaging,Marty Freudenburg,,,,Central,,Unscored
+G2XP6IGJ,,GTX Basic,Engaging,Moses Frase,,,,Central,,Unscored
+OBC504T8,,GTX Plus Basic,Engaging,Niesha Huffines,,,,Central,,Unscored
+8ODHXBNE,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+VO1YR5CY,,GTX Basic,Engaging,Versie Hillebrand,,,,Central,,Unscored
+V02WMIWK,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+L6223VHA,Sumace,GTXPro,Engaging,Darcel Schlecht,retail,Medium,Tier 2: $100M-$499M,Central,,Unscored
+TJ7PNIXL,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+VMBM5EKL,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+8TD2LLOF,,MG Advanced,Engaging,Darcel Schlecht,,,,Central,,Unscored
+7RLLNAYC,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+BRDB1I76,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+PW9DTZON,Donquadtech,GTXPro,Engaging,James Ascencio,technology,Enterprise,Tier 4: $1B-$2.5B,West,,Unscored
+G0DTQHIC,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+FPLXC8Z3,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+OD895EQM,,GTX Plus Pro,Engaging,Lajuana Vencill,,,,Central,,Unscored
+VBB0LCEN,,MG Advanced,Engaging,Lajuana Vencill,,,,Central,,Unscored
+IK7LMFER,,MG Special,Engaging,Moses Frase,,,,Central,,Unscored
+P3K1DVYB,,MG Advanced,Engaging,Moses Frase,,,,Central,,Unscored
+BB1PRS3T,,MG Advanced,Engaging,Moses Frase,,,,Central,,Unscored
+Q5GNQ823,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+T50TV9SO,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+N9GIC5PC,,GTX Plus Pro,Engaging,Anna Snelling,,,,Central,,Unscored
+1T5WFCEJ,,GTX Plus Pro,Engaging,Anna Snelling,,,,Central,,Unscored
+YYU1J6E1,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+KPYCCBQA,,GTX Plus Basic,Engaging,Cecily Lampkin,,,,Central,,Unscored
+SSK95WLX,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+PQ104BT2,Finjob,GTXPro,Engaging,Darcel Schlecht,employment,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+GQ7H31ZJ,Funholding,GTXPro,Engaging,Darcel Schlecht,finance,Corporate,Tier 5: > $2.5B,Central,,Unscored
+9B7FS6YL,Konex,GTXPro,Engaging,Darcel Schlecht,technology,Corporate,Tier 5: > $2.5B,Central,,Unscored
+M6JT5RL8,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+45H84LNT,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+E8MIFXOH,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+UO8DLVVQ,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+R7H0M07R,,MG Advanced,Engaging,Darcel Schlecht,,,,Central,,Unscored
+JQ5AOYQ8,,MG Advanced,Engaging,Darcel Schlecht,,,,Central,,Unscored
+G7RZTAMV,,GTX Plus Pro,Engaging,Gladys Colclough,,,,Central,,Unscored
+82K9NWKO,,MG Advanced,Engaging,Gladys Colclough,,,,Central,,Unscored
+RFXH6VDX,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+64KHY8MT,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+5PWO4RPC,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+EVDKJDY3,,GTX Plus Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+WX546S1D,,GTX Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+EN8JHUXA,,GTX Basic,Engaging,Moses Frase,,,,Central,,Unscored
+I3IRJZRL,,GTX Basic,Engaging,Niesha Huffines,,,,Central,,Unscored
+51H02FX1,,MG Special,Engaging,Niesha Huffines,,,,Central,,Unscored
+9SRD5NCR,,GTK 500,Engaging,Rosalina Dieter,,,,West,,Unscored
+WVT3X6IC,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+VD2KHXRY,Toughzap,GTXPro,Engaging,Zane Levy,retail,Large,Tier 2: $100M-$499M,West,,Unscored
+10QE4JCA,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+DXRG254A,,GTX Basic,Engaging,Boris Faz,,,,East,,Unscored
+X33HL9WS,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+ZJLW1OPF,Xx-zobam,GTXPro,Engaging,Darcel Schlecht,entertainment,Corporate,Tier 5: > $2.5B,Central,,Unscored
+Q62JFLLD,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+3PPHOXTT,,MG Special,Engaging,Darcel Schlecht,,,,Central,,Unscored
+N07XYH50,Newex,GTXPro,Engaging,Gladys Colclough,services,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+VIFA2I18,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+7K31BXX3,,GTXPro,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+XV41LZYE,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+0RI2I8ZL,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+3L3W9W8I,,GTX Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+WL6CZ7N4,,GTX Plus Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+M5FP7HGQ,,MG Special,Engaging,Moses Frase,,,,Central,,Unscored
+M2ZRU2UH,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+T0TDA2O1,,GTX Plus Pro,Engaging,Anna Snelling,,,,Central,,Unscored
+B1ZN2CFP,,MG Advanced,Engaging,Anna Snelling,,,,Central,,Unscored
+3A2CCWEG,,MG Special,Engaging,Cecily Lampkin,,,,Central,,Unscored
+4QQOSYGL,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+UWI771ZX,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+YI1V6SOX,The New York Inquirer,GTXPro,Engaging,Darcel Schlecht,medical,Large,Tier 2: $100M-$499M,Central,,Unscored
+PNTHPFHY,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+2I7IFY8D,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+3FI1J4VO,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+7BKYKVF2,,GTX Plus Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+6US3WW0M,,MG Special,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+4OYGRQGO,,MG Advanced,Engaging,Kami Bicknell,,,,West,,Unscored
+SPMQ0BHA,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+FQI66XXN,,GTX Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+1RXGKOUE,,GTX Plus Pro,Engaging,Versie Hillebrand,,,,Central,,Unscored
+TQZLDFIJ,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+3SD04QJ4,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+ERD6D5K3,,GTX Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+VVM42VWQ,,GTX Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+MK380H70,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+5SNCUQ8Z,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+P9EJ68SM,,GTX Plus Basic,Engaging,Cassey Cress,,,,East,,Unscored
+IG540SIB,,MG Advanced,Engaging,Cecily Lampkin,,,,Central,,Unscored
+CUZDYOOO,,GTX Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+EY7OI10Z,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+TJ95PY76,J-Texon,GTXPro,Engaging,Darcel Schlecht,retail,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+R6OZIG5J,,MG Advanced,Engaging,Darcel Schlecht,,,,Central,,Unscored
+DVT7NPEH,,MG Advanced,Engaging,Darcel Schlecht,,,,Central,,Unscored
+S9JXWIBD,,GTX Plus Basic,Engaging,Gladys Colclough,,,,Central,,Unscored
+0XBGT413,,GTXPro,Engaging,Gladys Colclough,,,,Central,,Unscored
+RTOIXNPC,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+7COYG1Z2,,MG Special,Engaging,Kami Bicknell,,,,West,,Unscored
+OVLGWURN,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+UHIIYU2J,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+R7I947IZ,,GTX Plus Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+754UOV5F,,MG Special,Engaging,Marty Freudenburg,,,,Central,,Unscored
+MTN3BOMC,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+ABT1TDH1,,GTX Basic,Engaging,Moses Frase,,,,Central,,Unscored
+D9NLFAEG,,GTX Basic,Engaging,Niesha Huffines,,,,Central,,Unscored
+I5AKI9KC,,MG Special,Engaging,Niesha Huffines,,,,Central,,Unscored
+0M3NCPQX,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+RN7M3757,,MG Advanced,Engaging,Versie Hillebrand,,,,Central,,Unscored
+OJ42ZCHR,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+0PT4RY4P,,MG Advanced,Engaging,Cecily Lampkin,,,,Central,,Unscored
+FSEV7ZJC,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+OEP0IJ6S,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+YWGU40CP,,MG Special,Engaging,Darcel Schlecht,,,,Central,,Unscored
+OBDEDIXA,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+1O72EKFY,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+4XXAK1QL,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+WU81R3XH,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+HHWZEWDV,,GTX Plus Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+UBO7V799,,MG Advanced,Engaging,Lajuana Vencill,,,,Central,,Unscored
+DZQW0KQ4,,GTX Plus Pro,Engaging,Markita Hansen,,,,West,,Unscored
+OAUUCC2N,,GTX Plus Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+283MDYKM,,GTX Plus Basic,Engaging,Moses Frase,,,,Central,,Unscored
+56LUBQTV,,MG Advanced,Engaging,Moses Frase,,,,Central,,Unscored
+STI8KYWL,,GTX Plus Basic,Engaging,Niesha Huffines,,,,Central,,Unscored
+K63TD0WD,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+EP9JNNF1,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+I1R23P5F,,GTX Plus Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+CFKXEPFN,,GTX Plus Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+H85L45JM,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+A2YIYWNW,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+HISWL7B0,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+BSKNQJOJ,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+VAL8O4PH,,MG Special,Engaging,Darcel Schlecht,,,,Central,,Unscored
+RZXMIHGO,,GTX Basic,Engaging,Gladys Colclough,,,,Central,,Unscored
+IW6S2BN0,,GTX Plus Basic,Engaging,Gladys Colclough,,,,Central,,Unscored
+G78ZK6XI,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+9C3YHNBY,,MG Advanced,Engaging,Gladys Colclough,,,,Central,,Unscored
+U4L1277G,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+YE7F777U,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+DO6VKC2G,,GTK 500,Engaging,Marty Freudenburg,,,,Central,,Unscored
+MBYOJR5A,,GTX Plus Pro,Engaging,Marty Freudenburg,,,,Central,,Unscored
+NBJR3GVR,,GTXPro,Engaging,Marty Freudenburg,,,,Central,,Unscored
+FKY3O5O1,Zotware,GTXPro,Engaging,Niesha Huffines,software,Corporate,Tier 5: > $2.5B,Central,,Unscored
+A9TEJW6U,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+1DC9PQ4S,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+JGXK8P6T,,MG Advanced,Engaging,Zane Levy,,,,West,,Unscored
+URQYDGX8,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+2E2FDZHG,,GTXPro,Engaging,Niesha Huffines,,,,Central,,Unscored
+8LP076IV,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+CWXHKUV5,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+N909ADDC,,MG Advanced,Engaging,Vicki Laflamme,,,,West,,Unscored
+ULJG457F,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+6TGCOE5O,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+QIEAKLRU,,MG Advanced,Engaging,Cecily Lampkin,,,,Central,,Unscored
+A04V2WB3,,GTK 500,Engaging,Elease Gluck,,,,West,,Unscored
+3G61D5KV,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+6RZ5GSAB,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+7VSFD2MV,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+3BA9OPGY,,MG Special,Engaging,Lajuana Vencill,,,,Central,,Unscored
+9V2SW5MV,,MG Advanced,Engaging,Marty Freudenburg,,,,Central,,Unscored
+SUUVV6RP,,MG Special,Engaging,Niesha Huffines,,,,Central,,Unscored
+XB1ZV04H,,GTX Basic,Engaging,Versie Hillebrand,,,,Central,,Unscored
+Q1TS5ZKD,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+VLYT262U,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+UM1OU73X,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+69U39SXU,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+ZCUMC0XC,,MG Special,Engaging,Gladys Colclough,,,,Central,,Unscored
+V1KABF71,,GTX Plus Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+CPOA6FVA,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+51VR0RD3,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+4PNXMXXC,,GTX Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+OVA9HMN1,,GTX Plus Pro,Engaging,Anna Snelling,,,,Central,,Unscored
+DAAHNY6T,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+80QJ0BQH,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+MOAP4XN7,,GTXPro,Engaging,Boris Faz,,,,East,,Unscored
+2N2MUDOA,Bioholding,GTXPro,Engaging,Daniell Hammack,medical,Enterprise,Tier 3: $500M-$999M,East,,Unscored
+RCJRB8W8,,GTX Plus Pro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+5NGPM4C3,,GTX Plus Pro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+3A54O8JT,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+WO1OYV0Z,,GTX Plus Pro,Engaging,Boris Faz,,,,East,,Unscored
+A8NDGVJE,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+7FFV8D9U,Plusstrip,GTXPro,Engaging,Gladys Colclough,entertainment,Medium,Tier 2: $100M-$499M,Central,,Unscored
+04T6SOQW,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+SLMY2KDA,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+AD2YEH7W,,GTX Plus Pro,Engaging,Marty Freudenburg,,,,Central,,Unscored
+98K99UW9,,GTX Plus Pro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+OMJHW2J1,,MG Advanced,Engaging,Versie Hillebrand,,,,Central,,Unscored
+G6CMP5I9,,MG Advanced,Engaging,Versie Hillebrand,,,,Central,,Unscored
+WD7Q5D3G,,GTX Plus Basic,Engaging,Markita Hansen,,,,West,,Unscored
+ZC987DAQ,,MG Advanced,Engaging,Markita Hansen,,,,West,,Unscored
+SYA1A4E5,,GTXPro,Engaging,Niesha Huffines,,,,Central,,Unscored
+9AESK6QV,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+Q8QGD2OG,,MG Advanced,Engaging,Cecily Lampkin,,,,Central,,Unscored
+FH3UXT3T,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+FS60AX8A,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+O7LSETHG,,MG Advanced,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+FCBSZ6FJ,,GTX Plus Pro,Engaging,Anna Snelling,,,,Central,,Unscored
+S931EBRN,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+9B20R6A5,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+BJH89YWM,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+RC4LEDIA,,MG Advanced,Engaging,Marty Freudenburg,,,,Central,,Unscored
+298J5EM0,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+Z4OOTJAJ,,GTX Plus Pro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+988J5AUI,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+2KWJIZX6,,GTX Plus Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+99EA6HXJ,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+DYO98F6J,,MG Special,Engaging,Marty Freudenburg,,,,Central,,Unscored
+EEB0JYIQ,,GTX Plus Basic,Engaging,Niesha Huffines,,,,Central,,Unscored
+68EYCEV4,Faxquote,GTXPro,Engaging,Rosie Papadopoulos,telecommunications,Corporate,Tier 4: $1B-$2.5B,East,,Unscored
+P4D1NK6D,,GTX Basic,Engaging,Elease Gluck,,,,West,,Unscored
+Z7Q2USU1,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+UMF3KRCL,,GTX Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+VJSI29OF,,MG Special,Engaging,Versie Hillebrand,,,,Central,,Unscored
+6KEWAQMX,,GTXPro,Engaging,Cassey Cress,,,,East,,Unscored
+QFRZLXF3,,MG Special,Engaging,Cecily Lampkin,,,,Central,,Unscored
+8MUD1WS1,,MG Advanced,Engaging,Cecily Lampkin,,,,Central,,Unscored
+27REMGYU,,GTX Basic,Engaging,James Ascencio,,,,West,,Unscored
+ZR436XWW,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+LT111IZL,,MG Special,Engaging,Moses Frase,,,,Central,,Unscored
+QHY85D44,,MG Special,Engaging,Moses Frase,,,,Central,,Unscored
+B96E3BBD,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+MQEFGUOG,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+3C6E0D28,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+58W7CZGD,Cancity,GTXPro,Engaging,Vicki Laflamme,retail,Enterprise,Tier 3: $500M-$999M,West,,Unscored
+EEQV0YY4,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+0OHEJOI5,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+QMFN71BT,,GTX Plus Basic,Engaging,Darcel Schlecht,,,,Central,,Unscored
+7O1UQ19W,,GTX Basic,Engaging,Gladys Colclough,,,,Central,,Unscored
+LFJVV393,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+QQPAK72N,,GTX Plus Pro,Engaging,Hayden Neloms,,,,West,,Unscored
+DFSFEADV,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+7FVBMH48,,MG Advanced,Engaging,Markita Hansen,,,,West,,Unscored
+V0G393Q6,,GTX Plus Basic,Engaging,Marty Freudenburg,,,,Central,,Unscored
+9CPUX0D0,,GTXPro,Engaging,Marty Freudenburg,,,,Central,,Unscored
+USS2SNQI,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+HQKWQ004,,MG Advanced,Engaging,Moses Frase,,,,Central,,Unscored
+SAMPTSH0,,GTX Plus Basic,Engaging,Anna Snelling,,,,Central,,Unscored
+NPORW46K,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+0GS0L5VR,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+LBO52V0N,,GTXPro,Engaging,Cassey Cress,,,,East,,Unscored
+FJE58EP1,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+AILB4LIX,,GTXPro,Engaging,Darcel Schlecht,,,,Central,,Unscored
+8FGW6RSX,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+CYV6MJL9,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+Y8ZUSC9C,,GTX Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+VHT6G2BS,,GTX Plus Basic,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+KBPKLB2X,,GTXPro,Engaging,Jonathan Berthelot,,,,Central,,Unscored
+AMP2GT6F,,GTXPro,Engaging,Maureen Marcano,,,,West,,Unscored
+PQJZNRKK,,GTXPro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+JEWIBFH9,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+B08R55ET,,MG Special,Engaging,Anna Snelling,,,,Central,,Unscored
+ICR59VIJ,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+TQJJDWWH,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+XGHMOHYQ,,GTX Basic,Engaging,Lajuana Vencill,,,,Central,,Unscored
+5378T3K3,,GTX Plus Pro,Engaging,Markita Hansen,,,,West,,Unscored
+1MQ3015O,,GTX Plus Basic,Engaging,Niesha Huffines,,,,Central,,Unscored
+PYQ3VX08,,GTXPro,Engaging,Niesha Huffines,,,,Central,,Unscored
+6SMB6SDY,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+041Q1IZL,Green-Plus,GTXPro,Engaging,Zane Levy,services,Enterprise,Tier 3: $500M-$999M,West,,Unscored
+V7W8CA47,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+KR22DD8M,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+FKVC924F,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+LXVCMY4C,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+XNKIZY9J,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+X9L0T199,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+VYR4EWHR,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+MAH5U65E,,MG Advanced,Engaging,Vicki Laflamme,,,,West,,Unscored
+NZJXKD9H,,MG Special,Engaging,Daniell Hammack,,,,East,,Unscored
+QPUPBL50,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+TUKHDOGS,,GTXPro,Engaging,Maureen Marcano,,,,West,,Unscored
+R2V49PU5,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+RFQFJLNJ,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+8P3O8A9H,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+5P4O1IU6,,MG Advanced,Engaging,Cassey Cress,,,,East,,Unscored
+TZPE6M07,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+G03J67Z1,,GTX Plus Basic,Engaging,Zane Levy,,,,West,,Unscored
+TM70L0W8,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+WK1319MB,,MG Advanced,Engaging,Boris Faz,,,,East,,Unscored
+S53EVWFC,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+P6NQ2LZK,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+QKW7MDJK,,GTXPro,Engaging,Violet Mclelland,,,,East,,Unscored
+UIOJX7O0,,GTXPro,Engaging,Cassey Cress,,,,East,,Unscored
+HF1GSBT4,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+Z8Z77GN3,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+LKJZEISS,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+Y0M8X7BV,,GTX Plus Pro,Engaging,Corliss Cosme,,,,East,,Unscored
+0H9C9J03,,GTX Plus Basic,Engaging,Markita Hansen,,,,West,,Unscored
+TLLW2ZRM,Condax,GTXPro,Engaging,Zane Levy,medical,Small,Tier 1: < $100M,West,,Unscored
+2F41W100,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+8PLXH354,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+RU5X1LZM,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+7K1KXMBT,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+TCJA7XF2,,MG Special,Engaging,Kami Bicknell,,,,West,,Unscored
+TGSLH2ZD,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+OLXEYM3P,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+3ORQ2R0R,,GTXPro,Engaging,Elease Gluck,,,,West,,Unscored
+PTZ9QLEF,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+R65LGLJ0,,MG Special,Engaging,Cassey Cress,,,,East,,Unscored
+XXD7OQOH,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+LMU41E2W,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+1Y58TSUU,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+WNTAT1OT,,GTX Basic,Engaging,Boris Faz,,,,East,,Unscored
+EDM7CEZ6,Opentech,GTXPro,Engaging,Kami Bicknell,finance,Large,Tier 2: $100M-$499M,West,,Unscored
+XRZNF1LQ,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+6CT660FF,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+NUS67BOQ,,GTX Basic,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+RTX8ZJXT,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+6C6Z3HRA,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+102XKYAC,Zotware,GTXPro,Engaging,Cassey Cress,software,Corporate,Tier 5: > $2.5B,East,,Unscored
+ASZNII2J,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+KAGK2GQJ,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+J0G6ZLYZ,,GTX Plus Pro,Engaging,Zane Levy,,,,West,,Unscored
+LOQ46F0T,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+JKAYQ4HQ,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+DZP41ANW,,GTX Plus Basic,Engaging,Hayden Neloms,,,,West,,Unscored
+H8XH5MFQ,,GTX Plus Pro,Engaging,Kary Hendrixson,,,,West,,Unscored
+YPM5PZMD,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+OGHK250E,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+KXR63BV7,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+VKIR68JX,,GTX Plus Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+W533W8G6,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+RW3CJO8D,,MG Advanced,Engaging,Zane Levy,,,,West,,Unscored
+5E274CQS,,GTXPro,Engaging,Boris Faz,,,,East,,Unscored
+H5J7C2FE,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+X6NSKI7H,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+ZPXE49AP,,GTX Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+U1XSUD1P,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+WEES59KH,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+IOPIJ6C6,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+EJGRLQP8,,GTXPro,Engaging,James Ascencio,,,,West,,Unscored
+8DDR4MUL,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+H0RRUQZ6,,MG Special,Engaging,Maureen Marcano,,,,West,,Unscored
+IMLFM79C,,GTX Plus Basic,Engaging,Markita Hansen,,,,West,,Unscored
+ZGW9SCQ0,,MG Advanced,Engaging,Hayden Neloms,,,,West,,Unscored
+34XWXEQE,,GTXPro,Engaging,James Ascencio,,,,West,,Unscored
+8NG46N94,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+WIQQUZRQ,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+LOHJU3OB,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+0558PJL2,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+JB60NPU9,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+77IBMLTB,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+S2XTTF3B,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+8XY5IA68,Sonron,GTXPro,Engaging,Rosie Papadopoulos,telecommunications,Corporate,Tier 4: $1B-$2.5B,East,,Unscored
+8V5OCDHN,,GTX Basic,Engaging,Cassey Cress,,,,East,,Unscored
+3NC5XSDF,,MG Advanced,Engaging,Violet Mclelland,,,,East,,Unscored
+5X3TSUA9,,GTX Plus Basic,Engaging,Cassey Cress,,,,East,,Unscored
+9DY57A6F,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+EQ0PLA0O,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+VRWH3YJV,,GTX Plus Pro,Engaging,Maureen Marcano,,,,West,,Unscored
+JBECEURV,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+ER0U0TOC,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+24K085JJ,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+NBBIFIKB,,MG Advanced,Engaging,Wilburn Farren,,,,East,,Unscored
+R6Q5JOLX,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+DY8DMZZ9,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+KQ83VL8T,,GTX Plus Basic,Engaging,Boris Faz,,,,East,,Unscored
+PAQ6EKHB,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+UU7N7LZK,,MG Advanced,Engaging,James Ascencio,,,,West,,Unscored
+ZBDT3T2H,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+WSO3NMK5,,MG Advanced,Engaging,Maureen Marcano,,,,West,,Unscored
+A7OVC1WK,,GTX Plus Pro,Engaging,Corliss Cosme,,,,East,,Unscored
+V1SX6HOD,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+WVKBXWA9,,MG Advanced,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+NRK892VX,,GTX Plus Pro,Engaging,Elease Gluck,,,,West,,Unscored
+5F1RM2YM,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+197EQMY8,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+2FM8HJDM,,MG Advanced,Engaging,Vicki Laflamme,,,,West,,Unscored
+4R4QF0ZU,,GTXPro,Engaging,Zane Levy,,,,West,,Unscored
+IDKBZCAF,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+LFI3BGEE,,GTX Plus Pro,Engaging,Daniell Hammack,,,,East,,Unscored
+K2NPVZL8,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+7FLPKZN7,Kan-code,GTXPro,Engaging,Kami Bicknell,software,Corporate,Tier 5: > $2.5B,West,,Unscored
+3Q15OHQB,,MG Advanced,Engaging,Vicki Laflamme,,,,West,,Unscored
+P8QXRXMR,,GTXPro,Engaging,Rosalina Dieter,,,,West,,Unscored
+G7QIQDSA,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+JXUSPNPV,,GTX Plus Basic,Engaging,Markita Hansen,,,,West,,Unscored
+FSYTM6YE,,GTXPro,Engaging,James Ascencio,,,,West,,Unscored
+SMP2K39G,,GTXPro,Engaging,Markita Hansen,,,,West,,Unscored
+9JTFD4FZ,,GTX Plus Pro,Engaging,Wilburn Farren,,,,East,,Unscored
+C51GWGUE,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+NS6JLCZ2,,GTXPro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+LZ3B174J,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+NX28C8EI,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+WV2YBM8V,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+NMLTE4CS,,GTX Plus Pro,Engaging,Maureen Marcano,,,,West,,Unscored
+QNB3SCN9,,GTX Plus Pro,Engaging,Wilburn Farren,,,,East,,Unscored
+MYD4PBM9,,GTX Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+E2CJIO85,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+EP5QRHID,,MG Advanced,Engaging,Boris Faz,,,,East,,Unscored
+5WAKI1NB,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+LDJ6VTNW,,GTX Plus Basic,Engaging,Daniell Hammack,,,,East,,Unscored
+1L68AC0E,Gogozoom,GTXPro,Engaging,Wilburn Farren,telecommunications,Medium,Tier 1: < $100M,East,,Unscored
+06C1N1F7,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+VVE9HGLD,,GTXPro,Engaging,Kary Hendrixson,,,,West,,Unscored
+JIEO87ZV,,MG Advanced,Engaging,Daniell Hammack,,,,East,,Unscored
+MIA65OVY,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+L9EVLHSJ,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+O691ZXXH,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+QDBJOE9M,,MG Special,Engaging,Zane Levy,,,,West,,Unscored
+ZEYGDEBG,,GTXPro,Engaging,Daniell Hammack,,,,East,,Unscored
+0HUWQWOJ,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+8SLDCS0F,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+4O3EPWFR,,GTX Plus Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+QCBO7C6E,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+NGG8O0JX,,GTX Basic,Engaging,Markita Hansen,,,,West,,Unscored
+DYYJW46L,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+XSTGL252,Toughzap,GTXPro,Engaging,Cassey Cress,retail,Large,Tier 2: $100M-$499M,East,,Unscored
+4ZKFSG5F,,GTX Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+5TCGN3GX,,GTX Plus Basic,Engaging,Violet Mclelland,,,,East,,Unscored
+Y6NI5EBV,,GTX Plus Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+OFC7ZTU8,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+RVUJPYY8,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+YQJGEI71,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+BZGJ44FH,,GTXPro,Engaging,Kami Bicknell,,,,West,,Unscored
+4S17VJ7O,,MG Advanced,Engaging,Kary Hendrixson,,,,West,,Unscored
+B2FSFXKA,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+W72TPY7P,,MG Special,Engaging,Markita Hansen,,,,West,,Unscored
+SLILSQJV,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+2DY9U1V7,Konex,GTXPro,Engaging,Rosie Papadopoulos,technology,Corporate,Tier 5: > $2.5B,East,,Unscored
+GL2FM1RM,,GTX Basic,Engaging,Rosalina Dieter,,,,West,,Unscored
+X7MN9ROG,,GTX Plus Pro,Engaging,Vicki Laflamme,,,,West,,Unscored
+S7UVZXM3,,MG Special,Engaging,Corliss Cosme,,,,East,,Unscored
+HWOBBZWQ,,GTX Basic,Engaging,Wilburn Farren,,,,East,,Unscored
+OYH46MQB,,GTX Basic,Engaging,Corliss Cosme,,,,East,,Unscored
+HXGDBNAV,,MG Advanced,Engaging,Maureen Marcano,,,,West,,Unscored
+31IV2B9O,,GTX Basic,Engaging,Vicki Laflamme,,,,West,,Unscored
+4D0K5T7T,Gogozoom,GTXPro,Engaging,Zane Levy,telecommunications,Medium,Tier 1: < $100M,West,,Unscored
+P5C842B5,,GTX Plus Pro,Engaging,Kami Bicknell,,,,West,,Unscored
+W5FH95XO,,MG Special,Engaging,Hayden Neloms,,,,West,,Unscored
+O1SCOU11,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+OMCFUDOU,,GTXPro,Engaging,James Ascencio,,,,West,,Unscored
+HN6TZPAF,,GTX Plus Pro,Engaging,Wilburn Farren,,,,East,,Unscored
+854QZNWK,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+46UHJGY0,,MG Special,Engaging,Corliss Cosme,,,,East,,Unscored
+N2249A7T,,GTXPro,Engaging,Markita Hansen,,,,West,,Unscored
+E1LFK6E3,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+WJO52I18,Inity,GTXPro,Engaging,Cassey Cress,marketing,Corporate,Tier 4: $1B-$2.5B,East,,Unscored
+SQ71BWHG,Zencorporation,GTXPro,Engaging,Kary Hendrixson,technology,Medium,Tier 1: < $100M,West,,Unscored
+ON821ADT,,GTXPro,Engaging,Markita Hansen,,,,West,,Unscored
+T7N0RX05,,GTX Plus Pro,Engaging,Maureen Marcano,,,,West,,Unscored
+RN67OVFW,,GTX Basic,Engaging,Zane Levy,,,,West,,Unscored
+IBB0VGUN,,MG Special,Engaging,Cassey Cress,,,,East,,Unscored
+0CR37ETK,,MG Advanced,Engaging,Corliss Cosme,,,,East,,Unscored
+NNNEMOZ5,,GTX Plus Pro,Engaging,James Ascencio,,,,West,,Unscored
+QD7MU7DD,,GTXPro,Engaging,Rosie Papadopoulos,,,,East,,Unscored
+1BW8S7JD,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+C2FSIMZP,,GTXPro,Engaging,Corliss Cosme,,,,East,,Unscored
+PMK11X5L,,GTX Plus Basic,Engaging,Wilburn Farren,,,,East,,Unscored
+W4XB23IP,,GTX Basic,Engaging,Boris Faz,,,,East,,Unscored
+6JBM1ZKO,,GTXPro,Engaging,Vicki Laflamme,,,,West,,Unscored
+0KWYQTQQ,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+G1W97XZA,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+BREOLQD9,,MG Advanced,Engaging,Boris Faz,,,,East,,Unscored
+62PCN0KS,,GTX Plus Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+J962I0KG,,GTX Plus Basic,Engaging,Cassey Cress,,,,East,,Unscored
+PQ84ANKD,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+PV3TH2FF,,MG Special,Engaging,Vicki Laflamme,,,,West,,Unscored
+D55HTKRU,Newex,GTXPro,Engaging,Kary Hendrixson,services,Enterprise,Tier 4: $1B-$2.5B,West,,Unscored
+7S8SLZDY,,MG Special,Engaging,Rosalina Dieter,,,,West,,Unscored
+JVF7HZMV,,GTX Plus Basic,Engaging,Zane Levy,,,,West,,Unscored
+GQDS81G1,,GTX Plus Pro,Engaging,Corliss Cosme,,,,East,,Unscored
+LC93MVYP,,GTX Basic,Engaging,Kami Bicknell,,,,West,,Unscored
+07GUKIG3,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+RS31U03Y,,GTX Plus Basic,Engaging,Zane Levy,,,,West,,Unscored
+VL8YNHD7,,GTX Plus Basic,Engaging,Kary Hendrixson,,,,West,,Unscored
+GMY4U7RD,,GTX Basic,Engaging,Maureen Marcano,,,,West,,Unscored
+IQR162ZT,,GTX Plus Basic,Engaging,Elease Gluck,,,,West,,Unscored
+RTWE19SU,Conecom,GTXPro,Engaging,Kary Hendrixson,technology,Enterprise,Tier 4: $1B-$2.5B,West,,Unscored
+T6MPH7JC,,MG Special,Engaging,Violet Mclelland,,,,East,,Unscored
+NGTVHTFH,,GTXPro,Engaging,Boris Faz,,,,East,,Unscored
+HCQK8NQ8,,GTX Plus Basic,Engaging,Wilburn Farren,,,,East,,Unscored
+RDHTQLNI,,GTX Plus Pro,Engaging,Cassey Cress,,,,East,,Unscored
+DB801ISB,,MG Special,Engaging,Elease Gluck,,,,West,,Unscored
+3LCLVRVV,,GTX Basic,Prospecting,Anna Snelling,,,,Central,,Unscored
+YIU1B39V,,GTX Basic,Prospecting,Anna Snelling,,,,Central,,Unscored
+8E0VRCLW,,GTX Basic,Prospecting,Anna Snelling,,,,Central,,Unscored
+G99CS23F,,GTX Basic,Prospecting,Anna Snelling,,,,Central,,Unscored
+XRJ54GNR,,GTX Basic,Prospecting,Anna Snelling,,,,Central,,Unscored
+GR9S7VHI,,GTX Basic,Prospecting,Anna Snelling,,,,Central,,Unscored
+OJDZN6UK,,GTX Plus Basic,Prospecting,Anna Snelling,,,,Central,,Unscored
+OM60BJ4S,,GTX Plus Basic,Prospecting,Anna Snelling,,,,Central,,Unscored
+0D8Y5JA0,,GTX Plus Pro,Prospecting,Anna Snelling,,,,Central,,Unscored
+GNN53C6D,,GTX Plus Pro,Prospecting,Anna Snelling,,,,Central,,Unscored
+6KHIXTAD,,GTX Plus Pro,Prospecting,Anna Snelling,,,,Central,,Unscored
+4ENCEYPG,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+EU4DPJGN,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+426EL41A,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+OXKLRULK,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+D3ZJX20X,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+V9JDJ861,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+DYXD1AXO,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+JSTHYUCD,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+JC7DDV56,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+ASDR6QEZ,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+5ELMZN3E,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+7Q90C2VN,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+ZIMT5RQ2,,MG Special,Prospecting,Anna Snelling,,,,Central,,Unscored
+FEEOZHT8,,MG Advanced,Prospecting,Anna Snelling,,,,Central,,Unscored
+D382N39B,,MG Advanced,Prospecting,Anna Snelling,,,,Central,,Unscored
+YYUJ1DCF,,MG Advanced,Prospecting,Anna Snelling,,,,Central,,Unscored
+OH0HJ6KK,,MG Advanced,Prospecting,Anna Snelling,,,,Central,,Unscored
+5TGQL49J,,MG Advanced,Prospecting,Anna Snelling,,,,Central,,Unscored
+Y7WAFW9D,,MG Advanced,Prospecting,Anna Snelling,,,,Central,,Unscored
+I8NC3RFB,,MG Advanced,Prospecting,Anna Snelling,,,,Central,,Unscored
+QR63ME8L,,GTX Basic,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+I79B9KJ2,,GTX Plus Basic,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+LABZ0UGB,,GTX Plus Basic,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+3R4W7ZVY,,GTX Plus Basic,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+0ZG6U7MQ,,GTX Plus Pro,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+KQPNPH8A,,GTX Plus Pro,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+SGI0VM1F,,GTX Plus Pro,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+GSBUIL1E,,MG Special,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+9F9NDO41,,MG Special,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+SJE81OUR,,MG Advanced,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+R0MBBXL8,,MG Advanced,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+NR2EDMKC,,MG Advanced,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+SU8FTFLS,,MG Advanced,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+61GDYW9T,,MG Advanced,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+TFCQZ28G,,MG Advanced,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+IXW68X6Z,,MG Advanced,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+F77XD7IZ,,MG Advanced,Prospecting,Cecily Lampkin,,,,Central,,Unscored
+CPEYUW7V,,GTX Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+5ZATE1WV,,GTX Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+R1HFBU5H,,GTX Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+03P9VXWG,,GTX Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+RMJG8OS2,,GTX Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+9L0WKMJ2,,GTX Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+I2LEEFAM,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+1LWG4COF,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+FEL7FQQG,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+0TQP0E65,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+P95E1DOX,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+JCRT0QHO,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+MTGV7WOM,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+IEMOIN3K,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+XTXMQMRC,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+OQX98BBL,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+RH0FJYPZ,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+HD6YD6P9,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+64OXRCSR,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+EG3X1ACF,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+TJ64MOUR,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+FY0SHNZY,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+V2V69I86,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+OAECXU4A,,GTX Plus Basic,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+A4TA5P1B,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+KIKV29M0,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+PCXGIH9X,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+ODSFN0YA,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+6RQUXORL,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+74LCNGIK,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+28EJ0L9T,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+UH9TR8Y1,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+JVXGG70X,,GTX Plus Pro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+SYP74C5W,Bioholding,GTXPro,Prospecting,Darcel Schlecht,medical,Enterprise,Tier 3: $500M-$999M,Central,,Unscored
+R0Q5BZ9Y,Blackzim,GTXPro,Prospecting,Darcel Schlecht,retail,Enterprise,Tier 2: $100M-$499M,Central,,Unscored
+OT0GOR3I,Bluth Company,GTXPro,Prospecting,Darcel Schlecht,technology,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+6RN7I8ZF,Condax,GTXPro,Prospecting,Darcel Schlecht,medical,Small,Tier 1: < $100M,Central,,Unscored
+YBWUG6QP,Condax,GTXPro,Prospecting,Darcel Schlecht,medical,Small,Tier 1: < $100M,Central,,Unscored
+8XE8GGIW,Donquadtech,GTXPro,Prospecting,Darcel Schlecht,technology,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+IHKIAB1W,Dontechi,GTXPro,Prospecting,Darcel Schlecht,software,Corporate,Tier 5: > $2.5B,Central,,Unscored
+YKBJP191,Faxquote,GTXPro,Prospecting,Darcel Schlecht,telecommunications,Corporate,Tier 4: $1B-$2.5B,Central,,Unscored
+P7UPCSTC,Faxquote,GTXPro,Prospecting,Darcel Schlecht,telecommunications,Corporate,Tier 4: $1B-$2.5B,Central,,Unscored
+GEQ8IGKW,Finjob,GTXPro,Prospecting,Darcel Schlecht,employment,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+EYR5E7LO,Initech,GTXPro,Prospecting,Darcel Schlecht,telecommunications,Corporate,Tier 5: > $2.5B,Central,,Unscored
+LO8L5ELD,Inity,GTXPro,Prospecting,Darcel Schlecht,marketing,Corporate,Tier 4: $1B-$2.5B,Central,,Unscored
+S1U1RD6K,Iselectrics,GTXPro,Prospecting,Darcel Schlecht,technology,Enterprise,Tier 3: $500M-$999M,Central,,Unscored
+R6HYAPR6,Opentech,GTXPro,Prospecting,Darcel Schlecht,finance,Large,Tier 2: $100M-$499M,Central,,Unscored
+A8NXNY0M,Plusstrip,GTXPro,Prospecting,Darcel Schlecht,entertainment,Medium,Tier 2: $100M-$499M,Central,,Unscored
+4ROECHG6,Ron-tech,GTXPro,Prospecting,Darcel Schlecht,medical,Corporate,Tier 5: > $2.5B,Central,,Unscored
+FVVATY89,Ron-tech,GTXPro,Prospecting,Darcel Schlecht,medical,Corporate,Tier 5: > $2.5B,Central,,Unscored
+BV75OM0B,Rundofase,GTXPro,Prospecting,Darcel Schlecht,technology,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+ZGTCQT1A,Rundofase,GTXPro,Prospecting,Darcel Schlecht,technology,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+GR8JTX1T,Warephase,GTXPro,Prospecting,Darcel Schlecht,services,Corporate,Tier 4: $1B-$2.5B,Central,,Unscored
+2IRZM0LB,Xx-zobam,GTXPro,Prospecting,Darcel Schlecht,entertainment,Corporate,Tier 5: > $2.5B,Central,,Unscored
+99YRLZM0,Yearin,GTXPro,Prospecting,Darcel Schlecht,retail,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+VJILDVVF,Zathunicon,GTXPro,Prospecting,Darcel Schlecht,retail,Medium,Tier 1: < $100M,Central,,Unscored
+A9DGDN56,Zencorporation,GTXPro,Prospecting,Darcel Schlecht,technology,Medium,Tier 1: < $100M,Central,,Unscored
+D01U08PR,Zumgoity,GTXPro,Prospecting,Darcel Schlecht,medical,Enterprise,Tier 2: $100M-$499M,Central,,Unscored
+LFD1ZGJ8,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+4YJKB8EC,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+DIGG7U6M,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+VMXGBINH,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+N6BT2U29,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+T12MT0HL,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+HZVVOITE,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+P6Z4X54S,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+910NLQ80,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+8IPMP8NT,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+7YOJ4KU7,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+3K70RL7Q,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+DX1M0XF0,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+5MNF16D8,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+PES548QV,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+XGMTNND1,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+6R94B0SG,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+8JL58ECD,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+KO7JWXCT,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+FGSBCJSC,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+65SMA4OZ,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+537X47QY,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+D95K3R9N,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+51HOGHF0,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+PRUFERA6,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+NST2FEF3,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+BBV196A3,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+E4YR0OE6,,GTXPro,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+TR7WLH5Q,,MG Special,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+M64OQCC3,,MG Special,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+WR9CQB8E,,MG Special,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+TWWD62O3,,MG Special,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+7CZU8GS1,,MG Special,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+APXWBOOT,,MG Special,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+7N6AHU7C,,MG Special,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+X4THRRSJ,,MG Advanced,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+3PN3YSPK,,MG Advanced,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+F6AOT0NK,,MG Advanced,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+YI92HVHO,,MG Advanced,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+39NJ6UC9,,MG Advanced,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+1XR36ESV,,MG Advanced,Prospecting,Darcel Schlecht,,,,Central,,Unscored
+NSYCCHCJ,,GTX Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+ATOYVLLB,,GTX Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+0M4K6F8Q,,GTX Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+HWKJ7TFJ,,GTX Plus Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+Q62STRQQ,,GTX Plus Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+9P9J2ANM,,GTX Plus Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+OJWGRIXN,,GTX Plus Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+EB393LSH,,GTX Plus Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+566X0PLZ,,GTX Plus Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+SFR7RG9V,,GTX Plus Basic,Prospecting,Gladys Colclough,,,,Central,,Unscored
+UZ7DU3D9,,GTX Plus Pro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+73CWPT9H,,GTX Plus Pro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+B7KZYEII,,GTX Plus Pro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+67CBAWHG,,GTX Plus Pro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+2WTPSQTN,,GTX Plus Pro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+V5PKXYWS,,GTX Plus Pro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+EJCPWP6V,Bioholding,GTXPro,Prospecting,Gladys Colclough,medical,Enterprise,Tier 3: $500M-$999M,Central,,Unscored
+BJE7KCZ1,Genco Pura Olive Oil Company,GTXPro,Prospecting,Gladys Colclough,retail,Enterprise,Tier 3: $500M-$999M,Central,,Unscored
+TK9J8AOZ,Treequote,GTXPro,Prospecting,Gladys Colclough,telecommunications,Corporate,Tier 5: > $2.5B,Central,,Unscored
+XARW0KTX,,GTXPro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+0C34Z5UZ,,GTXPro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+OA3RDG12,,GTXPro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+847RHYQE,,GTXPro,Prospecting,Gladys Colclough,,,,Central,,Unscored
+HP50ZWIZ,,MG Special,Prospecting,Gladys Colclough,,,,Central,,Unscored
+X3KQZM1K,,MG Special,Prospecting,Gladys Colclough,,,,Central,,Unscored
+WA3U0EVI,,MG Special,Prospecting,Gladys Colclough,,,,Central,,Unscored
+Q9CASEJL,,MG Special,Prospecting,Gladys Colclough,,,,Central,,Unscored
+OIBR7UA7,,MG Special,Prospecting,Gladys Colclough,,,,Central,,Unscored
+J5IF7CT6,,MG Advanced,Prospecting,Gladys Colclough,,,,Central,,Unscored
+AAQ5H36J,,MG Advanced,Prospecting,Gladys Colclough,,,,Central,,Unscored
+37PEZCGO,,MG Advanced,Prospecting,Gladys Colclough,,,,Central,,Unscored
+X9NUTLTR,,MG Advanced,Prospecting,Gladys Colclough,,,,Central,,Unscored
+L5PS6S68,,MG Advanced,Prospecting,Gladys Colclough,,,,Central,,Unscored
+JLZCOLIE,,MG Advanced,Prospecting,Gladys Colclough,,,,Central,,Unscored
+D00AN5HY,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+E6798P2J,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+MR08TTTT,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+7UVKZD60,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+0RLU8I9Q,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+ZT163LH3,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+8Y3OMER4,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+OQ1P1OLH,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+UY93W9NZ,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+NVH71LD4,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+XVQ3OA99,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+DJDJ5A58,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+22TUMCKT,,GTX Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+UD1GNRL4,,GTX Plus Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+B2YZJ212,,GTX Plus Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+94DGJSLN,,GTX Plus Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+IRTO8ZJW,,GTX Plus Basic,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+QN1UL4N3,,GTX Plus Pro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+FW2CVY2X,,GTX Plus Pro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+9R8AKL0D,Initech,GTXPro,Prospecting,Jonathan Berthelot,telecommunications,Corporate,Tier 5: > $2.5B,Central,,Unscored
+R14YE68N,Plexzap,GTXPro,Prospecting,Jonathan Berthelot,retail,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+8RQCHZ5O,,GTXPro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+90KRHC6T,,GTXPro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+8NLGRTU5,,GTXPro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+QMRDG7WP,,GTXPro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+F0K8UDEG,,GTXPro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+NUEPXB8Z,,GTXPro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+FBDS7GIZ,,GTXPro,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+0QMDTHBS,,MG Special,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+GM5X0CSG,,MG Special,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+E0HMRMZ9,,MG Special,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+DYA87PL1,,MG Special,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+CGRMC7OE,,MG Advanced,Prospecting,Jonathan Berthelot,,,,Central,,Unscored
+9HFEMESD,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+00400B1S,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+PELBIQ95,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+HLE798LQ,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+NB67WD27,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+2RQOUJ9V,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+6KW4PU0S,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+Y533QVR5,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+PAUK1IU0,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+97WEHB4X,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+Z4JQEOMT,,GTX Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+U0U1RIMI,,GTX Plus Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+ZTFYF8PV,,GTX Plus Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+Q620I4AZ,,GTX Plus Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+L7PPTHLF,,GTX Plus Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+8U9CA21G,,GTX Plus Basic,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+F14T88OP,,GTX Plus Pro,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+O7MBZPN4,,MG Special,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+XS7B6QT7,,MG Special,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+N6JMQG0E,,MG Special,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+TBNPWPNE,,MG Special,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+M4WW6I1S,,MG Special,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+GLQLEZJM,,MG Special,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+NDJBDONI,,MG Advanced,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+94ZZLWOH,,MG Advanced,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+KKUHAY4O,,MG Advanced,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+4V17GRKW,,MG Advanced,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+EOJHYLXG,,MG Advanced,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+4XQ43RJW,,MG Advanced,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+MJK3UJ1B,,MG Advanced,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+44JDHBI8,,MG Advanced,Prospecting,Lajuana Vencill,,,,Central,,Unscored
+BW0NOLCK,,GTX Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+G7K3HJAT,,GTX Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+NBE5EMSV,,GTX Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+D00KRY2S,,GTX Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+ZB3JRI67,,GTX Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+4AUWVKUU,,GTX Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+VUFZB941,,GTX Plus Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+EABYCHB3,,GTX Plus Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+6Z6DMG2V,,GTX Plus Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+BZ96Z7AI,,GTX Plus Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+QY7GTG6Y,,GTX Plus Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+VZ28EXFN,,GTX Plus Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+KOPIWJO5,,GTX Plus Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+465ZW6J2,,GTX Plus Basic,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+BVRUBA3A,,GTX Plus Pro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+5JS1Z5BQ,,GTX Plus Pro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+5EUHU5AF,,GTX Plus Pro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+F11IGBLD,,GTX Plus Pro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+CC70D9SD,,GTX Plus Pro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+0BQTT5UF,Donware,GTXPro,Prospecting,Marty Freudenburg,marketing,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+M7UNLZEP,Finhigh,GTXPro,Prospecting,Marty Freudenburg,finance,Enterprise,Tier 4: $1B-$2.5B,Central,,Unscored
+EG7S6ZOI,Konmatfix,GTXPro,Prospecting,Marty Freudenburg,marketing,Enterprise,Tier 2: $100M-$499M,Central,,Unscored
+UND13JS5,Plusstrip,GTXPro,Prospecting,Marty Freudenburg,entertainment,Medium,Tier 2: $100M-$499M,Central,,Unscored
+HFVWQIMF,,GTXPro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+9YLUGU6I,,GTXPro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+SAUIIUTV,,GTXPro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+B5H6M7AP,,GTXPro,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+GSOR2INK,,MG Special,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+BTH2O9OF,,MG Special,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+HW367OVT,,MG Special,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+O6NIPA7N,,MG Special,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+WJ7HDR4Q,,MG Advanced,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+F1NWH30L,,MG Advanced,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+7KQAH6UI,,MG Advanced,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+2NO97U9Z,,MG Advanced,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+BKI3OLP8,,MG Advanced,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+KTSP63I0,,MG Advanced,Prospecting,Marty Freudenburg,,,,Central,,Unscored
+M22PCEKY,,GTX Basic,Prospecting,Moses Frase,,,,Central,,Unscored
+IVTNXNYP,,GTX Basic,Prospecting,Moses Frase,,,,Central,,Unscored
+HOXD9TTL,,GTX Basic,Prospecting,Moses Frase,,,,Central,,Unscored
+H046CU4Z,,GTX Basic,Prospecting,Moses Frase,,,,Central,,Unscored
+JF4MEWPX,,GTX Basic,Prospecting,Moses Frase,,,,Central,,Unscored
+1HD5JJM3,,GTX Plus Basic,Prospecting,Moses Frase,,,,Central,,Unscored
+NWPSEF2I,,GTX Plus Basic,Prospecting,Moses Frase,,,,Central,,Unscored
+0E8D6TCQ,,GTX Plus Basic,Prospecting,Moses Frase,,,,Central,,Unscored
+7MKYTX69,,GTX Plus Pro,Prospecting,Moses Frase,,,,Central,,Unscored
+32NDDT4L,,MG Special,Prospecting,Moses Frase,,,,Central,,Unscored
+1969NL80,,MG Special,Prospecting,Moses Frase,,,,Central,,Unscored
+IKR0NSUE,,MG Special,Prospecting,Moses Frase,,,,Central,,Unscored
+473F6L9F,,MG Special,Prospecting,Moses Frase,,,,Central,,Unscored
+KN4LCS4D,,MG Special,Prospecting,Moses Frase,,,,Central,,Unscored
+2872DC79,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+OYRF34VN,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+HP8IWA1E,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+M5ZYQFGR,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+0CECGPEJ,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+D6YEYMJC,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+RLDCYEJU,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+BIN9U8D9,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+8O98HGMW,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+SRYX0U85,,MG Advanced,Prospecting,Moses Frase,,,,Central,,Unscored
+HUG2KAHE,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+PGN9I1HU,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+647SQRGL,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+TAKHOTRW,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+TS9QPHNA,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+UEI0RABV,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+27ZK0L0F,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+K38J8D75,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+UIP7MXOR,,GTX Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+52WACRCG,,GTX Plus Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+0PXJYUT7,,GTX Plus Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+D45LXDPW,,GTX Plus Basic,Prospecting,Niesha Huffines,,,,Central,,Unscored
+K8ITR8PA,,GTX Plus Pro,Prospecting,Niesha Huffines,,,,Central,,Unscored
+G4B3UCWQ,,GTXPro,Prospecting,Niesha Huffines,,,,Central,,Unscored
+8O212QCV,,GTXPro,Prospecting,Niesha Huffines,,,,Central,,Unscored
+X2REWR7J,,GTXPro,Prospecting,Niesha Huffines,,,,Central,,Unscored
+K7L1RE8B,,MG Special,Prospecting,Niesha Huffines,,,,Central,,Unscored
+RPCZJOE2,,MG Special,Prospecting,Niesha Huffines,,,,Central,,Unscored
+6IG2A8KD,,MG Special,Prospecting,Niesha Huffines,,,,Central,,Unscored
+MFU6Y5HX,,MG Special,Prospecting,Niesha Huffines,,,,Central,,Unscored
+Y0EKPBLQ,,MG Special,Prospecting,Niesha Huffines,,,,Central,,Unscored
+8TLX2786,,MG Special,Prospecting,Niesha Huffines,,,,Central,,Unscored
+Z9CW6K35,,MG Special,Prospecting,Niesha Huffines,,,,Central,,Unscored
+PF7M8CG2,,MG Advanced,Prospecting,Niesha Huffines,,,,Central,,Unscored
+EPOB4B15,,GTX Basic,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+2WWMPY7O,,GTX Basic,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+Z6VQW8TB,,GTX Basic,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+FNLAOXF8,,GTX Basic,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+6IO91583,,GTX Plus Basic,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+ZXNPF7PL,,GTX Plus Pro,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+NKFG3KKP,,GTX Plus Pro,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+6QKBZAEQ,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+5P4OCP0Q,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+E54FFQBM,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+8GNSME5U,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+5697WKA6,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+A5DN7SE1,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+DGI6CB5K,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+MTH7D617,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+S6BD2RV6,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+P43NZA0V,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+TFPZNRS3,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+SPTF1MZ4,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+WI5RHGX9,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+WAT7H38N,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+1FAU5C6V,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+Q5RRTVJK,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+KIOF5EM0,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+SH4FSTJV,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+AV50UWVV,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+KAZ72JJ0,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+QVWEPN6J,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+JD7ACALY,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+NSGU1K3N,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+UK00OVV2,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+DWGARGA2,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+A4M34F8C,,MG Special,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+WNWI8RJU,,MG Advanced,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+4H6DFFO4,,MG Advanced,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+IUM2FVA1,,MG Advanced,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+9MIWFW5J,,MG Advanced,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+6SLKZ8FI,,MG Advanced,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+LIB4KUZJ,,MG Advanced,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+18IUIUK0,,MG Advanced,Prospecting,Versie Hillebrand,,,,Central,,Unscored
+8I5ONXJX,,MG Advanced,Prospecting,Versie Hillebrand,,,,Central,,Unscored
